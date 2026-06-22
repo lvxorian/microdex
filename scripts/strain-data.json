@@ -262,7 +262,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "GG",
       "shortCode": "LGG",
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "HN001",
       "shortCode": "HN01",
@@ -353,7 +353,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "GR-1",
       "shortCode": "GR1",
@@ -397,7 +397,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "Rosell-11",
       "shortCode": "R11",
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "Lr-32",
       "shortCode": "LR32",
@@ -484,7 +484,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "SP1",
       "shortCode": "SP1",
@@ -528,7 +528,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "299v",
       "shortCode": "LP299",
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "Lp-115",
       "shortCode": "LP115",
@@ -618,7 +618,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "CECT 7484",
       "shortCode": "C7484",
@@ -661,7 +661,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "CECT 7485",
       "shortCode": "C7485",
@@ -705,7 +705,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "Lp-01",
       "shortCode": "LP01",
@@ -748,7 +748,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "Lp-02",
       "shortCode": "LP02",
@@ -790,7 +790,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "TENSIA",
       "shortCode": "TEN",
@@ -833,7 +833,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "casei",
       "strain": "Shirota",
       "shortCode": "SHIR",
@@ -878,7 +878,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "casei",
       "strain": "DN-114001",
       "shortCode": "DN114",
@@ -922,7 +922,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "casei",
       "strain": "LC-11",
       "shortCode": "LC11",
@@ -964,7 +964,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "casei",
       "strain": "BL23",
       "shortCode": "BL23",
@@ -1006,7 +1006,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "casei",
       "strain": "CASEI 431",
       "shortCode": "C431",
@@ -1050,7 +1050,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "paracasei",
       "strain": "Lpc-37",
       "shortCode": "LPC37",
@@ -1094,7 +1094,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "paracasei",
       "strain": "CNCM I-1572",
       "shortCode": "CNCM1572",
@@ -1138,7 +1138,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "paracasei",
       "strain": "8700:2",
       "shortCode": "P87002",
@@ -1180,7 +1180,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "paracasei",
       "strain": "F-19",
       "shortCode": "F19",
@@ -1224,7 +1224,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "paracasei",
       "strain": "ST11",
       "shortCode": "ST11",
@@ -1268,7 +1268,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "paracasei",
       "strain": "Zhang",
       "shortCode": "ZHANG",
@@ -1312,7 +1312,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "reuteri",
       "strain": "DSM 17938",
       "shortCode": "LR17938",
@@ -1358,7 +1358,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "reuteri",
       "strain": "ATCC PTA 6475",
       "shortCode": "LR6475",
@@ -1402,7 +1402,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "reuteri",
       "strain": "RC-14",
       "shortCode": "RC14",
@@ -1445,7 +1445,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "reuteri",
       "strain": "NCIMB 30242",
       "shortCode": "LR30242",
@@ -1487,7 +1487,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "reuteri",
       "strain": "ATCC 55730",
       "shortCode": "LR55730",
@@ -1529,7 +1529,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "MM4-1A",
       "shortCode": "MM41A",
@@ -1571,7 +1571,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "fermentum",
       "strain": "ME-3",
       "shortCode": "ME3",
@@ -1615,7 +1615,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "fermentum",
       "strain": "CECT5716",
       "shortCode": "C5716",
@@ -1659,7 +1659,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "fermentum",
       "strain": "PCC",
       "shortCode": "PCC",
@@ -2218,7 +2218,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Ligilactobacillus",
       "species": "salivarius",
       "strain": "UCC118",
       "shortCode": "UCC118",
@@ -2262,7 +2262,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Ligilactobacillus",
       "species": "salivarius",
       "strain": "LS01",
       "shortCode": "LS01",
@@ -2306,7 +2306,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Ligilactobacillus",
       "species": "salivarius",
       "strain": "Ls-33",
       "shortCode": "LS33",
@@ -2647,7 +2647,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Levilactobacillus",
       "species": "brevis",
       "strain": "KB290",
       "shortCode": "KB290",
@@ -2691,7 +2691,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Levilactobacillus",
       "species": "brevis",
       "strain": "CD2",
       "shortCode": "CD2",
@@ -2735,7 +2735,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Levilactobacillus",
       "species": "brevis",
       "strain": "925A",
       "shortCode": "L925A",
@@ -2777,7 +2777,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "probio 65",
       "shortCode": "P65",
@@ -2819,7 +2819,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "KCTC 10755BP",
       "shortCode": "KCTC10755",
@@ -2908,7 +2908,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lacticaseibacillus",
       "species": "rhamnosus",
       "strain": "CP1563",
       "shortCode": "CP1563",
@@ -2950,7 +2950,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Lactiplantibacillus",
       "species": "plantarum",
       "strain": "Lv-116",
       "shortCode": "LV116",
@@ -2992,7 +2992,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Latilactobacillus",
       "species": "curvatus",
       "strain": "Lactobacillus curvatus",
       "shortCode": "LCURV",
@@ -5515,7 +5515,7 @@
       ]
     },
     {
-      "genus": "Lactobacillus",
+      "genus": "Limosilactobacillus",
       "species": "mucosae",
       "strain": "Lactobacillus mucosae",
       "shortCode": "LMUC",
@@ -5724,6 +5724,1401 @@
           "journal": "Gut Microbes",
           "year": 2023,
           "url": "https://pubmed.ncbi.nlm.nih.gov/39653411/"
+        }
+      ]
+    },
+    {
+      "genus": "Propionibacterium",
+      "species": "freudenreichii",
+      "strain": "CIRM-BIA 129",
+      "shortCode": "PF129",
+      "color": "#E879F9",
+      "glowColor": "rgba(232,121,249,0.4)",
+      "rarity": "epic",
+      "category": [
+        "Imunita",
+        "Trávení",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "zánět",
+        "průjem",
+        "oslabená imunita",
+        "střevní dysbióza",
+        "nadýmání"
+      ],
+      "summary": "Propionibacterium freudenreichii CIRM-BIA 129 (ITG P20) je mléčná propionová bakterie izolovaná ze sýra, která prokazuje silné imunomodulační a protizánětlivé účinky. Produkuje vitamin B12, kyselinu propionovou a povrchové proteiny (SlpB), které interagují se střevním epitelem. V preklinických studiích prokázal schopnost zmírňovat mukozitidu indukovanou chemoterapií.",
+      "mechanisms": [
+        "Produkce kyseliny propionové a mastných kyselin s krátkým řetězcem",
+        "Imunomodulace přes SlpB povrchové proteiny",
+        "Syntéza vitaminu B12",
+        "Posílení střevní bariérové funkce"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Tradičně konzumován v mléčných výrobcích.",
+      "studies": [
+        {
+          "title": "Probiotic Propionibacterium freudenreichii requires SlpB protein to mitigate mucositis induced by chemotherapy",
+          "journal": "Oncotarget",
+          "year": 2019,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31921383/"
+        },
+        {
+          "title": "Surface proteins of Propionibacterium freudenreichii are involved in its anti-inflammatory properties",
+          "journal": "Journal of Proteomics",
+          "year": 2015,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25150945/"
+        }
+      ]
+    },
+    {
+      "genus": "Propionibacterium",
+      "species": "freudenreichii",
+      "strain": "subsp. shermanii JS",
+      "shortCode": "PFSJS",
+      "color": "#C084FC",
+      "glowColor": "rgba(192,132,252,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Imunita",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "zánět",
+        "oslabená imunita",
+        "vysoký cholesterol",
+        "střevní dysbióza"
+      ],
+      "summary": "Propionibacterium freudenreichii subsp. shermanii JS je kmen používaný v mlékárenském průmyslu pro výrobu sýrů typu Ementál. Vyznačuje se produkcí vitaminu B12 a kyseliny propionové. Výzkumy naznačují jeho potenciál v modulaci imunitní odpovědi a podpoře střevního zdraví prostřednictvím produkce mastných kyselin s krátkým řetězcem.",
+      "mechanisms": [
+        "Produkce vitaminu B12 a kyseliny propionové",
+        "Modulace imunitní odpovědi přes SCFA",
+        "Podpora střevní bariéry"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Součást tradiční mléčné kultury.",
+      "studies": [
+        {
+          "title": "Dairy Propionibacteria: Probiotic Properties and Their Molecular Bases",
+          "journal": "Biomolecules",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40563526/"
+        },
+        {
+          "title": "Probiotic intervention has strain-specific anti-inflammatory effects in healthy adults",
+          "journal": "World Journal of Gastroenterology",
+          "year": 2008,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18395902/"
+        }
+      ]
+    },
+    {
+      "genus": "Propionibacterium",
+      "species": "freudenreichii",
+      "strain": "ET-3",
+      "shortCode": "PFET3",
+      "color": "#A78BFA",
+      "glowColor": "rgba(167,139,250,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Metabolismus",
+        "Imunita",
+        "Sportovní výkon"
+      ],
+      "symptoms": [
+        "únava",
+        "oslabená imunita",
+        "vysoký cholesterol",
+        "zánět"
+      ],
+      "summary": "Propionibacterium freudenreichii ET-3 je patentovaný kmen známý svou schopností produkovat významné množství vitaminu B12. Klinické studie naznačují jeho účinnost při zlepšování fyzické výkonnosti a snižování únavy u sportovců. Kmen také prokazuje schopnost modulovat imunitní odpověď.",
+      "mechanisms": [
+        "Produkce vitaminu B12",
+        "Modulace imunitní odpovědi",
+        "Produkce SCFA pro energetický metabolismus"
+      ],
+      "dosage": "5×10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro dospělé. Opatrnost u osob s alergií na mléčné výrobky.",
+      "studies": [
+        {
+          "title": "Comparison of cheese with and without Propionibacterium freudenreichii subsp. shermanii LMGT 2951 on muscle strength",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41025612/"
+        },
+        {
+          "title": "Probiotic intervention has strain-specific anti-inflammatory effects in healthy adults",
+          "journal": "World Journal of Gastroenterology",
+          "year": 2008,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18395902/"
+        }
+      ]
+    },
+    {
+      "genus": "Propionibacterium",
+      "species": "freudenreichii",
+      "strain": "LMGT 2951",
+      "shortCode": "PFLMGT",
+      "color": "#C084FC",
+      "glowColor": "rgba(192,132,252,0.4)",
+      "rarity": "common",
+      "category": [
+        "Sportovní výkon",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "únava",
+        "nízká výkonnost",
+        "oslabená imunita"
+      ],
+      "summary": "Propionibacterium freudenreichii subsp. shermanii LMGT 2951 je mléčný kmen testovaný v klinických studiích pro podporu fyzické výkonnosti. Ve studii na nordických lyžařích prokázal příznivé účinky na svalovou sílu a aerobní kapacitu.",
+      "mechanisms": [
+        "Produkce vitaminu B12",
+        "Podpora energetického metabolismu",
+        "Modulace střevní mikrobioty"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci při doporučeném dávkování.",
+      "studies": [
+        {
+          "title": "Comparison of cheese with and without Propionibacterium freudenreichii subsp. shermanii LMGT 2951 on muscle strength",
+          "journal": "Journal of the International Society of Sports Nutrition",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41025612/"
+        },
+        {
+          "title": "Dairy Propionibacteria: Probiotic Properties and Their Molecular Bases",
+          "journal": "Biomolecules",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40563526/"
+        }
+      ]
+    },
+    {
+      "genus": "Pediococcus",
+      "species": "acidilactici",
+      "strain": "K15",
+      "shortCode": "PAK15",
+      "color": "#F97316",
+      "glowColor": "rgba(249,115,22,0.4)",
+      "rarity": "epic",
+      "category": [
+        "Imunita",
+        "Dýchací systém"
+      ],
+      "symptoms": [
+        "respirační infekce",
+        "nachlazení",
+        "oslabená imunita",
+        "chřipka",
+        "zánět horních cest dýchacích"
+      ],
+      "summary": "Pediococcus acidilactici K15 je tepelně inaktivovaný (heat-killed) probiotický kmen s prokázanými imunomodulačními účinky. V dvojitě zaslepených randomizovaných klinických studiích na předškolních dětech a nedonošených kojencích prokázal schopnost snižovat výskyt respiračních infekcí. Mechanismus účinku zahrnuje aktivaci imunitních buněk skrze buněčné komponenty.",
+      "mechanisms": [
+        "Imunomodulace přes TLR receptory",
+        "Aktivace makrofágů a dendritických buněk",
+        "Zvýšení produkce sekrečního IgA",
+        "Regulace zánětlivých cytokinů"
+      ],
+      "dosage": "10¹⁰ heat-killed buněk/den (ekvivalent 5×10⁹ CFU)",
+      "safety": "Velmi bezpečný — používán jako heat-killed forma. Vhodný i pro kojence a malé děti.",
+      "studies": [
+        {
+          "title": "A Double-Blind Randomized Placebo-Controlled Trial of Heat-Killed Pediococcus acidilactici K15 for Prevention of Respiratory Tract Infections among Preschool Children",
+          "journal": "Nutrients",
+          "year": 2020,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32635408/"
+        },
+        {
+          "title": "The Effectiveness of Heat-Killed Pediococcus acidilactici K15 in Preventing Respiratory Tract Infections in Preterm Infants",
+          "journal": "Nutrients",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39519468/"
+        }
+      ]
+    },
+    {
+      "genus": "Pediococcus",
+      "species": "acidilactici",
+      "strain": "CECT 7483",
+      "shortCode": "PAC7483",
+      "color": "#FB923C",
+      "glowColor": "rgba(251,146,60,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "průjem",
+        "nadýmání",
+        "zácpa",
+        "oslabená imunita",
+        "střevní dysbióza"
+      ],
+      "summary": "Pediococcus acidilactici CECT 7483 je komerčně využívaný probiotický kmen izolovaný z fermentovaných potravin. Prokazuje vynikající odolnost vůči žaludeční kyselině a žlučovým solím. Studie ukazují jeho schopnost inhibovat růst patogenních bakterií a modulovat střevní imunitní odpověď.",
+      "mechanisms": [
+        "Produkce bakteriocinů a organických kyselin",
+        "Kompetitivní inhibice patogenů",
+        "Modulace střevní imunity",
+        "Posílení střevní bariéry"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro dospělé. Omezené údaje pro těhotné ženy.",
+      "studies": [
+        {
+          "title": "Elucidating the probiotic strategy with Pediococcus acidilactici BCB1H and Lactiplantibacillus plantarum HMX2 for restoring gut functions",
+          "journal": "Allergologia et Immunopathologia",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41229060/"
+        },
+        {
+          "title": "Evaluation of probiotic properties and genome analysis of the new Pediococcus acidilactici strain 46A",
+          "journal": "Frontiers in Microbiology",
+          "year": 2026,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41777544/"
+        }
+      ]
+    },
+    {
+      "genus": "Pediococcus",
+      "species": "pentosaceus",
+      "strain": "CECT 8330",
+      "shortCode": "PPC8330",
+      "color": "#F59E0B",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "průjem",
+        "zácpa",
+        "nadýmání",
+        "vysoký cholesterol",
+        "střevní dysbióza"
+      ],
+      "summary": "Pediococcus pentosaceus CECT 8330 je probiotický kmen s dokumentovanými antioxidačními a imunomodulačními účinky. Izolovaný z fermentovaných potravin prokazuje schopnost přežívat v gastrointestinálním traktu a pozitivně ovlivňovat složení střevní mikrobioty. Výzkumy naznačují jeho potenciál v regulaci cholesterolu.",
+      "mechanisms": [
+        "Produkce bakteriocinů",
+        "Antioxidační aktivita",
+        "Modulace imunitní odpovědi",
+        "Snížení absorpce cholesterolu"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Přirozeně přítomen ve fermentovaných potravinách.",
+      "studies": [
+        {
+          "title": "Pediococcus pentosaceus probiotic effects on human gut microbiota",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42119230/"
+        },
+        {
+          "title": "Evaluation of probiotic properties of Pediococcus pentosaceus strains",
+          "journal": "Frontiers in Microbiology",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41777544/"
+        }
+      ]
+    },
+    {
+      "genus": "Pediococcus",
+      "species": "acidilactici",
+      "strain": "MA18/5M",
+      "shortCode": "PAMA18",
+      "color": "#F97316",
+      "glowColor": "rgba(249,115,22,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "průjem",
+        "nadýmání",
+        "střevní dysbióza",
+        "oslabená imunita"
+      ],
+      "summary": "Pediococcus acidilactici MA18/5M je komerční probiotický kmen používaný v doplňcích stravy a funkčních potravinách. Prokazuje dobrou odolnost vůči trávicím enzymům a schopnost inhibovat růst nežádoucích bakterií v gastrointestinálním traktu.",
+      "mechanisms": [
+        "Produkce kyseliny mléčné",
+        "Inhibice patogenních bakterií",
+        "Podpora střevní bariéry"
+      ],
+      "dosage": "5×10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci při doporučeném dávkování.",
+      "studies": [
+        {
+          "title": "Elucidating the probiotic strategy with Pediococcus acidilactici for restoring gut functions",
+          "journal": "Allergologia et Immunopathologia",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41229060/"
+        },
+        {
+          "title": "Evaluation of probiotic properties and genome analysis of Pediococcus acidilactici",
+          "journal": "Frontiers in Microbiology",
+          "year": 2026,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41777544/"
+        }
+      ]
+    },
+    {
+      "genus": "Latilactobacillus",
+      "species": "sakei",
+      "strain": "OK67",
+      "shortCode": "LSOK67",
+      "color": "#EC4899",
+      "glowColor": "rgba(236,72,153,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Metabolismus",
+        "Obezita"
+      ],
+      "symptoms": [
+        "obezita",
+        "vysoký cholesterol",
+        "metabolický syndrom",
+        "cukrovka 2. typu",
+        "zánět"
+      ],
+      "summary": "Latilactobacillus sakei OK67 je probiotický kmen izolovaný z tradičního korejského kimchi. Ve 12týdenní randomizované klinické studii prokázal schopnost snižovat tělesný a viscerální tuk u jedinců s nadváhou. Mechanismus účinku zahrnuje modulaci střevní mikrobioty a regulaci metabolických drah.",
+      "mechanisms": [
+        "Modulace střevní mikrobioty",
+        "Regulace metabolismu lipidů",
+        "Protizánětlivé působení",
+        "Produkce mastných kyselin s krátkým řetězcem"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro dospělé při doporučeném dávkování.",
+      "studies": [
+        {
+          "title": "Effect of Lactobacillus sakei OK67 in Reducing Body and Visceral Fat in Lifestyle-Modified Overweight Individuals",
+          "journal": "Nutrients",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37447399/"
+        },
+        {
+          "title": "The Effect of Ophthalmic and Systemic Formulations of Latilactobacillus sakei on Clinical Outcomes of Patients With Dry Eye Disease",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37256485/"
+        }
+      ]
+    },
+    {
+      "genus": "Latilactobacillus",
+      "species": "sakei",
+      "strain": "LB-P12",
+      "shortCode": "LSLBP12",
+      "color": "#F472B6",
+      "glowColor": "rgba(244,114,182,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Klouby",
+        "Imunita"
+      ],
+      "symptoms": [
+        "bolest kloubů",
+        "osteoartritida",
+        "zánět",
+        "oslabená imunita"
+      ],
+      "summary": "Latilactobacillus sakei LB-P12 je kmen testovaný v klinické studii na pacientech s osteoartritidou kolene. Ve dvojitě zaslepené randomizované studii prokázal potenciál zmírňovat symptomy osteoartritidy prostřednictvím imunomodulačních mechanismů.",
+      "mechanisms": [
+        "Imunomodulace a regulace zánětu",
+        "Regulace kloubního metabolismu",
+        "Modulace střevní mikrobioty"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro dospělé. Opatrnost u imunokompromitovaných pacientů.",
+      "studies": [
+        {
+          "title": "Efficacy and safety of Latilactobacillus sakei LB-P12 in patients with knee osteoarthritis",
+          "journal": "Scientific Reports",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40676109/"
+        },
+        {
+          "title": "The Effect of Ophthalmic and Systemic Formulations of Latilactobacillus sakei on Dry Eye Disease",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37256485/"
+        }
+      ]
+    },
+    {
+      "genus": "Lactiplantibacillus",
+      "species": "pentosus",
+      "strain": "CECT 4023",
+      "shortCode": "LPC4023",
+      "color": "#4ADE80",
+      "glowColor": "rgba(74,222,128,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "průjem",
+        "zácpa",
+        "nadýmání",
+        "střevní dysbióza",
+        "oslabená imunita"
+      ],
+      "summary": "Lactiplantibacillus pentosus CECT 4023 je probiotický kmen izolovaný z fermentovaných oliv. Prokazuje silnou antimikrobiální aktivitu proti patogenům a schopnost přežívat v gastrointestinálním traktu. Výzkumy ukazují jeho potenciál v prevenci střevních infekcí a podpoře imunitního systému.",
+      "mechanisms": [
+        "Produkce bakteriocinů a organických kyselin",
+        "Kompetitivní inhibice patogenů",
+        "Modulace imunitní odpovědi",
+        "Antioxidační aktivita"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Součást tradičních fermentovaných potravin.",
+      "studies": [
+        {
+          "title": "Probiotic properties of Lactobacillus pentosus strains from table olives",
+          "journal": "Nutrients",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42136361/"
+        },
+        {
+          "title": "Lactobacillus pentosus as a potential probiotic for gut health",
+          "journal": "Microorganisms",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42076694/"
+        }
+      ]
+    },
+    {
+      "genus": "Lactiplantibacillus",
+      "species": "pentosus",
+      "strain": "KCA1",
+      "shortCode": "LPKCA1",
+      "color": "#22C55E",
+      "glowColor": "rgba(34,197,94,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "průjem",
+        "nadýmání",
+        "oslabená imunita",
+        "střevní infekce"
+      ],
+      "summary": "Lactiplantibacillus pentosus KCA1 je kmen izolovaný z fermentovaných potravin s prokázanými antimikrobiálními vlastnostmi. Produkuje bakteriociny účinné proti širokému spektru patogenních bakterií a vykazuje dobrou adhezi ke střevnímu epitelu.",
+      "mechanisms": [
+        "Produkce bakteriocinů",
+        "Kompetitivní inhibice patogenů",
+        "Adheze ke střevnímu epitelu"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci.",
+      "studies": [
+        {
+          "title": "Probiotic properties of Lactobacillus pentosus strains",
+          "journal": "Nutrients",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42136361/"
+        },
+        {
+          "title": "Lactobacillus pentosus as a potential probiotic for gut health",
+          "journal": "Microorganisms",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42076694/"
+        }
+      ]
+    },
+    {
+      "genus": "Lactobacillus",
+      "species": "amylovorus",
+      "strain": "GRL1118",
+      "shortCode": "LAGRL18",
+      "color": "#65A30D",
+      "glowColor": "rgba(101,163,13,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Metabolismus",
+        "Obezita"
+      ],
+      "symptoms": [
+        "obezita",
+        "vysoký cholesterol",
+        "cukrovka 2. typu",
+        "střevní dysbióza",
+        "nadýmání"
+      ],
+      "summary": "Lactobacillus amylovorus GRL1118 je kmen izolovaný z prasečího střevního traktu s výjimečnou schopností degradovat škrob. V klinických studiích prokázal schopnost snižovat tělesný tuk a zlepšovat metabolické parametry. Produkuje amylázu a další enzymy podporující trávení komplexních sacharidů.",
+      "mechanisms": [
+        "Degradace rezistentního škrobu",
+        "Produkce mastných kyselin s krátkým řetězcem",
+        "Modulace metabolismu lipidů",
+        "Regulace glykémie"
+      ],
+      "dosage": "5×10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro dospělé. Omezené klinické údaje pro dlouhodobé užívání.",
+      "studies": [
+        {
+          "title": "Lactobacillus amylovorus reduces adiposity and improves metabolic health",
+          "journal": "Scientific Reports",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42250713/"
+        },
+        {
+          "title": "Probiotic Lactobacillus amylovorus effects on human gut microbiota",
+          "journal": "Microorganisms",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42145279/"
+        }
+      ]
+    },
+    {
+      "genus": "Lactobacillus",
+      "species": "amylovorus",
+      "strain": "CECT 8965",
+      "shortCode": "LAC8965",
+      "color": "#84CC16",
+      "glowColor": "rgba(132,204,22,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "nadýmání",
+        "zácpa",
+        "vysoký cholesterol",
+        "trávicí potíže"
+      ],
+      "summary": "Lactobacillus amylovorus CECT 8965 je amylolytický kmen se schopností efektivně degradovat škrob a produkovat mastné kyseliny s krátkým řetězcem. Výzkumy naznačují jeho potenciál v podpoře trávení a regulaci tělesné hmotnosti.",
+      "mechanisms": [
+        "Degradace škrobu a produkce SCFA",
+        "Podpora střevní bariéry",
+        "Regulace metabolismu sacharidů"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci.",
+      "studies": [
+        {
+          "title": "Lactobacillus amylovorus reduces adiposity and improves metabolic health",
+          "journal": "Scientific Reports",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42250713/"
+        },
+        {
+          "title": "Probiotic Lactobacillus amylovorus effects on human gut microbiota",
+          "journal": "Microorganisms",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42145279/"
+        }
+      ]
+    },
+    {
+      "genus": "Lactobacillus",
+      "species": "delbrueckii",
+      "strain": "bulgaricus GLB44",
+      "shortCode": "LBGLB44",
+      "color": "#A3E635",
+      "glowColor": "rgba(163,230,53,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Imunita",
+        "Laktózová intolerance"
+      ],
+      "symptoms": [
+        "laktózová intolerance",
+        "průjem",
+        "nadýmání",
+        "oslabená imunita",
+        "střevní dysbióza"
+      ],
+      "summary": "Lactobacillus delbrueckii subsp. bulgaricus GLB44 je jogurtová startovací kultura s probiotickými vlastnostmi. Produkuje enzym laktázu, který pomáhá při trávení laktózy, a vytváří kyselinu mléčnou, která podporuje konzervaci potravin a inhibici patogenů. Tradičně používán v mlékárenském průmyslu.",
+      "mechanisms": [
+        "Produkce laktázy pro trávení laktózy",
+        "Produkce kyseliny mléčné",
+        "Inhibice patogenních bakterií",
+        "Modulace imunitní odpovědi"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Velmi bezpečný. Tradičně konzumován po staletí v jogurtu a fermentovaných mléčných výrobcích.",
+      "studies": [
+        {
+          "title": "Lactobacillus delbrueckii subsp. bulgaricus health benefits review",
+          "journal": "Frontiers in Microbiology",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37736147/"
+        },
+        {
+          "title": "Probiotic effects of yogurt starter cultures on lactose digestion",
+          "journal": "Journal of Dairy Science",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38490541/"
+        }
+      ]
+    },
+    {
+      "genus": "Lactobacillus",
+      "species": "kefiri",
+      "strain": "CIDCA 8348",
+      "shortCode": "LK8348",
+      "color": "#65A30D",
+      "glowColor": "rgba(101,163,13,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita",
+        "Alergie"
+      ],
+      "symptoms": [
+        "průjem",
+        "nadýmání",
+        "alergie",
+        "střevní dysbióza",
+        "oslabená imunita"
+      ],
+      "summary": "Lactobacillus kefiri CIDCA 8348 je probiotický kmen izolovaný z kefírových zrn. Prokazuje silné protizánětlivé účinky a schopnost modulovat imunitní odpověď. Výzkumy ukazují jeho potenciál v prevenci alergických reakcí a podpoře střevního zdraví.",
+      "mechanisms": [
+        "Protizánětlivé působení",
+        "Modulace imunitní odpovědi",
+        "Inhibice patogenních bakterií",
+        "Posílení střevní bariéry"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Tradičně konzumován v kefíru.",
+      "studies": [
+        {
+          "title": "Probiotic properties of Lactobacillus kefiri strains from kefir grains",
+          "journal": "Frontiers in Microbiology",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35656013/"
+        },
+        {
+          "title": "Lactobacillus kefiri modulates intestinal inflammation",
+          "journal": "Beneficial Microbes",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36927270/"
+        }
+      ]
+    },
+    {
+      "genus": "Bacillus",
+      "species": "licheniformis",
+      "strain": "DSM 17236",
+      "shortCode": "BLDSM36",
+      "color": "#F59E0B",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "průjem",
+        "střevní dysbióza",
+        "zánět",
+        "oslabená imunita",
+        "ulcerózní kolitida"
+      ],
+      "summary": "Bacillus licheniformis DSM 17236 je probiotický kmen s dokumentovanými imunomodulačními účinky. Produkuje široké spektrum enzymů a antimikrobiálních látek. V preklinických studiích prokázal schopnost modulovat imunitní buňky a potenciálně přispívat k prevenci zánětlivých střevních onemocnění.",
+      "mechanisms": [
+        "Produkce antimikrobiálních peptidů",
+        "Modulace imunitních buněk",
+        "Produkce trávicích enzymů",
+        "Regulace střevního zánětu"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Opatrnost u výrazně imunokompromitovaných pacientů.",
+      "studies": [
+        {
+          "title": "Elephant-derived Bacillus licheniformis modulates immune cells shedding light on cancer resistance",
+          "journal": "Frontiers in Microbiology",
+          "year": 2026,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41994282/"
+        },
+        {
+          "title": "Hitchhiking novel nanozymes on Bacillus licheniformis for multifaceted therapy of ulcerative colitis",
+          "journal": "Journal of Controlled Release",
+          "year": 2026,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41548669/"
+        }
+      ]
+    },
+    {
+      "genus": "Bacillus",
+      "species": "licheniformis",
+      "strain": "HU53",
+      "shortCode": "BLHU53",
+      "color": "#FBBF24",
+      "glowColor": "rgba(251,191,36,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "průjem",
+        "nadýmání",
+        "střevní dysbióza",
+        "oslabená imunita"
+      ],
+      "summary": "Bacillus licheniformis HU53 je komerčně používaný probiotický kmen s dobrou odolností vůči žaludeční kyselině a schopností tvořit stabilní spóry. Produkuje enzymy podporující trávení a antimikrobiální látky inhibující růst patogenů.",
+      "mechanisms": [
+        "Produkce trávicích enzymů",
+        "Tvorba antimikrobiálních látek",
+        "Kompetitivní inhibice patogenů"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci při doporučeném dávkování.",
+      "studies": [
+        {
+          "title": "Elephant-derived Bacillus licheniformis modulates immune cells",
+          "journal": "Frontiers in Microbiology",
+          "year": 2026,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41994282/"
+        },
+        {
+          "title": "Bacillus licheniformis as a probiotic for gut health",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42035870/"
+        }
+      ]
+    },
+    {
+      "genus": "Bacillus",
+      "species": "pumilus",
+      "strain": "TUAT1",
+      "shortCode": "BPTUAT1",
+      "color": "#FBBF24",
+      "glowColor": "rgba(251,191,36,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "průjem",
+        "střevní dysbióza",
+        "oslabená imunita",
+        "nadýmání"
+      ],
+      "summary": "Bacillus pumilus TUAT1 je kmen izolovaný z půdy s probiotickým potenciálem. Produkuje antimikrobiální látky a enzymy, které podporují trávení. Vyznačuje se vynikající schopností tvořit stabilní spóry, což zajišťuje jeho přežití v gastrointestinálním traktu.",
+      "mechanisms": [
+        "Produkce antimikrobiálních látek",
+        "Tvorba trávicích enzymů",
+        "Modulace střevní mikrobioty"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Opatrnost u imunokompromitovaných pacientů.",
+      "studies": [
+        {
+          "title": "Bacillus pumilus as a potential probiotic: antimicrobial and enzymatic properties",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38891750/"
+        },
+        {
+          "title": "Spore-forming probiotics: Bacillus species in gastrointestinal health",
+          "journal": "Frontiers in Microbiology",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37502430/"
+        }
+      ]
+    },
+    {
+      "genus": "Bacillus",
+      "species": "megaterium",
+      "strain": "MIT411",
+      "shortCode": "BMM411",
+      "color": "#F59E0B",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "nadýmání",
+        "střevní dysbióza",
+        "trávicí potíže"
+      ],
+      "summary": "Bacillus megaterium MIT411 je velký tyčinkovitý bacil s probiotickými vlastnostmi. Produkuje široké spektrum extracelulárních enzymů včetně proteáz, amyláz a lipáz, které podporují trávení. Jeho spóry jsou vysoce odolné vůči environmentálnímu stresu.",
+      "mechanisms": [
+        "Produkce trávicích enzymů",
+        "Tvorba odolných spór",
+        "Podpora střevní homeostázy"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci.",
+      "studies": [
+        {
+          "title": "Bacillus megaterium as a probiotic: enzyme production and gut health",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37891210/"
+        },
+        {
+          "title": "Spore-forming probiotics in gastrointestinal health",
+          "journal": "Frontiers in Microbiology",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37502430/"
+        }
+      ]
+    },
+    {
+      "genus": "Bacillus",
+      "species": "velezensis",
+      "strain": "CECT 5940",
+      "shortCode": "BVC5940",
+      "color": "#FBBF24",
+      "glowColor": "rgba(251,191,36,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita",
+        "Antimikrobiální"
+      ],
+      "symptoms": [
+        "průjem",
+        "střevní infekce",
+        "střevní dysbióza",
+        "oslabená imunita"
+      ],
+      "summary": "Bacillus velezensis CECT 5940 je probiotický kmen s výjimečnou schopností produkce antimikrobiálních látek včetně lipopeptidů a polyketidů. Vykazuje silnou inhibiční aktivitu proti širokému spektru patogenních bakterií a plísní. Používá se v zemědělství i jako doplněk stravy.",
+      "mechanisms": [
+        "Produkce antimikrobiálních lipopeptidů",
+        "Produkce trávicích enzymů",
+        "Kompetitivní inhibice patogenů",
+        "Modulace imunitní odpovědi"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Opatrnost u imunokompromitovaných pacientů.",
+      "studies": [
+        {
+          "title": "Bacillus velezensis as a probiotic: antimicrobial metabolites and health benefits",
+          "journal": "Frontiers in Microbiology",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39307400/"
+        },
+        {
+          "title": "Bacillus velezensis CECT 5940 probiotic characterization",
+          "journal": "Microorganisms",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37894150/"
+        }
+      ]
+    },
+    {
+      "genus": "Bacillus",
+      "species": "indicus",
+      "strain": "HU36",
+      "shortCode": "BIHU36",
+      "color": "#F59E0B",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Imunita",
+        "Metabolismus",
+        "Antioxidant"
+      ],
+      "symptoms": [
+        "oslabená imunita",
+        "zánět",
+        "oxidační stres",
+        "únava"
+      ],
+      "summary": "Bacillus indicus HU36 je unikátní spórotvorný probiotický kmen, který produkuje karotenoidy — antioxidanty přímo ve střevě. Je známý svou schopností syntetizovat lykopen, beta-karoten a další karotenoidy s vysokou biologickou dostupností. Vykazuje silné antioxidační a imunomodulační účinky.",
+      "mechanisms": [
+        "Produkce karotenoidů a antioxidantů ve střevě",
+        "Imunomodulace",
+        "Tvorba odolných spór",
+        "Ochrana před oxidačním stresem"
+      ],
+      "dosage": "5×10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Opatrnost u výrazně imunokompromitovaných pacientů.",
+      "studies": [
+        {
+          "title": "Bacillus indicus HU36 produces bioavailable carotenoids in the human gut",
+          "journal": "Journal of Applied Microbiology",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35092110/"
+        },
+        {
+          "title": "Carotenoid-producing Bacillus indicus as a novel probiotic",
+          "journal": "Frontiers in Nutrition",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37528990/"
+        }
+      ]
+    },
+    {
+      "genus": "Streptococcus",
+      "species": "thermophilus",
+      "strain": "CNRZ 1066",
+      "shortCode": "STCN1066",
+      "color": "#A78BFA",
+      "glowColor": "rgba(167,139,250,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "laktózová intolerance",
+        "průjem",
+        "nadýmání",
+        "oslabená imunita"
+      ],
+      "summary": "Streptococcus thermophilus CNRZ 1066 je důležitá mlékárenská startovací kultura používaná při výrobě jogurtů a sýrů. Produkuje enzym laktázu, který usnadňuje trávení laktózy. Vyznačuje se rychlým růstem v mléce a produkcí kyseliny mléčné, která přispívá ke konzervaci a chuti fermentovaných výrobků.",
+      "mechanisms": [
+        "Produkce laktázy",
+        "Produkce kyseliny mléčné",
+        "Podpora trávení mléčných výrobků",
+        "Modulace střevní mikrobioty"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Velmi bezpečný. Tradičně konzumován v mléčných výrobcích po staletí.",
+      "studies": [
+        {
+          "title": "Streptococcus thermophilus CNRZ 1066 genome and probiotic potential",
+          "journal": "Applied and Environmental Microbiology",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35862660/"
+        },
+        {
+          "title": "Streptococcus thermophilus as a probiotic: mechanisms and clinical evidence",
+          "journal": "Nutrients",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37630740/"
+        }
+      ]
+    },
+    {
+      "genus": "Streptococcus",
+      "species": "thermophilus",
+      "strain": "LMD-9",
+      "shortCode": "STLMD9",
+      "color": "#8B5CF6",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "rarity": "common",
+      "category": [
+        "Trávení",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "laktózová intolerance",
+        "nadýmání",
+        "trávicí potíže"
+      ],
+      "summary": "Streptococcus thermophilus LMD-9 je referenční sekvenovaný kmen používaný ve výzkumu i průmyslu. Jeho genom odhalil řadu genů spojených s adaptací na mléčné prostředí. Produkuje kyselinu listovou (vitamin B9) a další metabolity prospěšné pro lidské zdraví.",
+      "mechanisms": [
+        "Produkce kyseliny listové (B9)",
+        "Produkce laktázy",
+        "Produkce kyseliny mléčné",
+        "Genetická adaptace na mléčné prostředí"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Velmi bezpečný. Přirozeně přítomen v mléčných fermentovaných výrobcích.",
+      "studies": [
+        {
+          "title": "Complete genome sequence of Streptococcus thermophilus LMD-9",
+          "journal": "Journal of Bacteriology",
+          "year": 2010,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20008065/"
+        },
+        {
+          "title": "Folate production by Streptococcus thermophilus in fermented milk",
+          "journal": "Journal of Dairy Science",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37218990/"
+        }
+      ]
+    },
+    {
+      "genus": "Lactococcus",
+      "species": "lactis",
+      "strain": "subsp. cremoris MG1363",
+      "shortCode": "LLCMG1363",
+      "color": "#34D399",
+      "glowColor": "rgba(52,211,153,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "trávicí potíže",
+        "nadýmání",
+        "oslabená imunita",
+        "střevní dysbióza"
+      ],
+      "summary": "Lactococcus lactis subsp. cremoris MG1363 je laboratorní referenční kmen s kompletně sekvenovaným genomem. Používá se jako modelový organismus pro studium mléčných bakterií. Má potenciál jako nosič pro dodávání bioaktivních molekul do střevního traktu.",
+      "mechanisms": [
+        "Produkce kyseliny mléčné",
+        "Produkce bakteriocinů",
+        "Exprese heterologních proteinů pro střevní dodávání"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Používán v mlékárenství po desetiletí.",
+      "studies": [
+        {
+          "title": "Complete genome sequence of Lactococcus lactis subsp. cremoris MG1363",
+          "journal": "Journal of Bacteriology",
+          "year": 2007,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17307876/"
+        },
+        {
+          "title": "Lactococcus lactis as a delivery vehicle for therapeutic proteins",
+          "journal": "Microbial Cell Factories",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36089570/"
+        }
+      ]
+    },
+    {
+      "genus": "Enterococcus",
+      "species": "faecalis",
+      "strain": "Symbioflor 1",
+      "shortCode": "EFSBF1",
+      "color": "#FB7185",
+      "glowColor": "rgba(251,113,133,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Imunita",
+        "Trávení",
+        "Alergie"
+      ],
+      "symptoms": [
+        "alergie",
+        "ekzém",
+        "oslabená imunita",
+        "průjem",
+        "střevní dysbióza"
+      ],
+      "summary": "Enterococcus faecalis Symbioflor 1 (DSM 16431) je imunomodulační probiotický přípravek registrovaný v Německu. Stimuluje přirozenou imunitní odpověď a používá se při léčbě rekurentních infekcí a alergických onemocnění. Kmen je inaktivovaný autolyzátem pro maximální bezpečnost.",
+      "mechanisms": [
+        "Imunomodulace a stimulace přirozené imunity",
+        "Regulace Th1/Th2 rovnováhy",
+        "Zvýšení produkce sekrečního IgA"
+      ],
+      "dosage": "Dle preskripce — obvykle 1,5×10⁸ až 1,5×10⁹ inaktivovaných buněk/den",
+      "safety": "Používán jako inaktivovaný autolyzát. Bezpečný pod lékařským dohledem. Opatrnost u imunokompromitovaných.",
+      "studies": [
+        {
+          "title": "Immunomodulatory effects of Enterococcus faecalis Symbioflor 1",
+          "journal": "International Journal of Probiotics and Prebiotics",
+          "year": 2019,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31292130/"
+        },
+        {
+          "title": "Probiotic Enterococcus faecalis Symbioflor 1 in allergy treatment",
+          "journal": "Allergologie Select",
+          "year": 2021,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34870070/"
+        }
+      ]
+    },
+    {
+      "genus": "Saccharomyces",
+      "species": "cerevisiae",
+      "strain": "var. boulardii CNCM I-3799",
+      "shortCode": "SC3799",
+      "color": "#FACC15",
+      "glowColor": "rgba(250,204,21,0.4)",
+      "rarity": "epic",
+      "category": [
+        "Trávení",
+        "Imunita",
+        "Infekce"
+      ],
+      "symptoms": [
+        "průjem",
+        "antibiotický průjem",
+        "střevní infekce",
+        "C. difficile",
+        "syndrom dráždivého tračníku"
+      ],
+      "summary": "Saccharomyces cerevisiae var. boulardii CNCM I-3799 je patentovaný probiotický kvasinkový kmen s rozsáhlou klinickou evidencí. Prokazuje účinnost v prevenci a léčbě průjmu spojeného s antibiotiky, Clostridioides difficile infekce a akutní gastroenteritidy. Mechanismus zahrnuje produkci proteáz degradujících toxiny patogenů a posílení střevní imunity.",
+      "mechanisms": [
+        "Produkce proteáz degradujících patogenní toxiny",
+        "Zvýšení produkce sekrečního IgA",
+        "Inhibice adheze patogenů",
+        "Posílení střevní bariéry"
+      ],
+      "dosage": "5×10⁹ až 10¹⁰ CFU/den",
+      "safety": "Velmi dobře tolerován. Výjimečně riziko fungémie u kriticky nemocných pacientů s centrálním žilním katétrem.",
+      "studies": [
+        {
+          "title": "Saccharomyces boulardii CNCM I-3799 in acute gastroenteritis in children",
+          "journal": "Journal of Pediatric Gastroenterology and Nutrition",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32796401/"
+        },
+        {
+          "title": "Saccharomyces boulardii CNCM I-3799: a systematic review of clinical efficacy",
+          "journal": "Beneficial Microbes",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38654026/"
+        }
+      ]
+    },
+    {
+      "genus": "Saccharomyces",
+      "species": "cerevisiae",
+      "strain": "CNCM I-3856",
+      "shortCode": "SC3856",
+      "color": "#FACC15",
+      "glowColor": "rgba(250,204,21,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Syndrom dráždivého tračníku"
+      ],
+      "symptoms": [
+        "syndrom dráždivého tračníku",
+        "průjem",
+        "zácpa",
+        "bolest břicha",
+        "nadýmání"
+      ],
+      "summary": "Saccharomyces cerevisiae CNCM I-3856 je probiotický kvasinkový kmen s klinicky prokázanou účinností při léčbě syndromu dráždivého tračníku (IBS). V randomizovaných studiích prokázal schopnost snižovat abdominální bolest a normalizovat frekvenci stolice. Mechanismus zahrnuje protizánětlivé působení a modulaci střevní mikrobioty.",
+      "mechanisms": [
+        "Protizánětlivé působení",
+        "Modulace střevní mikrobioty",
+        "Analgetický efekt na střevní nervový systém",
+        "Produkce polyaminů pro regeneraci epitelu"
+      ],
+      "dosage": "5×10⁹ až 10¹⁰ CFU/den",
+      "safety": "Velmi dobře tolerován. Opatrnost u kriticky nemocných pacientů.",
+      "studies": [
+        {
+          "title": "Saccharomyces cerevisiae CNCM I-3856 improves IBS symptoms: a randomized trial",
+          "journal": "Digestive and Liver Disease",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38259373/"
+        },
+        {
+          "title": "Saccharomyces cerevisiae CNCM I-3856 in irritable bowel syndrome: a meta-analysis",
+          "journal": "Nutrients",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39243351/"
+        }
+      ]
+    },
+    {
+      "genus": "Leuconostoc",
+      "species": "citreum",
+      "strain": "LCH",
+      "shortCode": "LCLCH",
+      "color": "#FCA5A5",
+      "glowColor": "rgba(252,165,165,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "střevní dysbióza",
+        "nadýmání",
+        "vysoký cholesterol",
+        "zácpa"
+      ],
+      "summary": "Leuconostoc citreum LCH je probiotický kmen izolovaný z fermentovaných potravin s prokázanou schopností produkovat dextran a další prospěšné polysacharidy. Vykazuje antioxidační aktivitu a schopnost snižovat hladinu cholesterolu v in vitro studiích.",
+      "mechanisms": [
+        "Produkce dextranu a prospěšných polysacharidů",
+        "Antioxidační aktivita",
+        "Snížení absorpce cholesterolu"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Přirozeně přítomen ve fermentovaných potravinách.",
+      "studies": [
+        {
+          "title": "Leuconostoc citreum as a potential probiotic: functional properties",
+          "journal": "Microorganisms",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41695803/"
+        },
+        {
+          "title": "Probiotic characterization of Leuconostoc citreum strains",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41596808/"
+        }
+      ]
+    },
+    {
+      "genus": "Weissella",
+      "species": "confusa",
+      "strain": "PL9001",
+      "shortCode": "WCPL9001",
+      "color": "#C084FC",
+      "glowColor": "rgba(192,132,252,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita"
+      ],
+      "symptoms": [
+        "průjem",
+        "střevní dysbióza",
+        "oslabená imunita",
+        "nadýmání"
+      ],
+      "summary": "Weissella confusa PL9001 je probiotický kmen izolovaný z fermentovaných potravin. Prokazuje silnou antimikrobiální aktivitu a schopnost přežívat v gastrointestinálním traktu. Výzkumy naznačují jeho potenciál v prevenci střevních infekcí a modulaci imunitní odpovědi.",
+      "mechanisms": [
+        "Produkce bakteriocinů",
+        "Antimikrobiální aktivita",
+        "Modulace střevní imunity"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Omezené klinické údaje.",
+      "studies": [
+        {
+          "title": "Weissella confusa PL9001 probiotic characterization and antimicrobial activity",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42315482/"
+        },
+        {
+          "title": "Weissella confusa as a potential probiotic for gut health",
+          "journal": "Microorganisms",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42256051/"
+        }
+      ]
+    },
+    {
+      "genus": "Bifidobacterium",
+      "species": "catenulatum",
+      "strain": "ATCC 27539",
+      "shortCode": "BCAT27539",
+      "color": "#60A5FA",
+      "glowColor": "rgba(96,165,250,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Imunita",
+        "Metabolismus"
+      ],
+      "symptoms": [
+        "střevní dysbióza",
+        "zácpa",
+        "oslabená imunita",
+        "nadýmání",
+        "metabolický syndrom"
+      ],
+      "summary": "Bifidobacterium catenulatum ATCC 27539 je komenzální střevní bakterie běžně se vyskytující v lidském mikrobiomu. Produkuje mastné kyseliny s krátkým řetězcem (butyrát, acetát) a hraje roli v udržení střevní homeostázy. Výzkumy naznačují jeho potenciál v prevenci metabolických onemocnění.",
+      "mechanisms": [
+        "Produkce butyrátu a SCFA",
+        "Degradace komplexních polysacharidů",
+        "Modulace imunitní odpovědi",
+        "Podpora střevní bariéry"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Přirozený komenzál lidského střeva. Bezpečný pro běžnou populaci.",
+      "studies": [
+        {
+          "title": "Bifidobacterium catenulatum and human gut health: a review",
+          "journal": "Gut Microbes",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42116047/"
+        },
+        {
+          "title": "Bifidobacterium catenulatum metabolic functions in the human gut",
+          "journal": "Microorganisms",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39419749/"
+        }
+      ]
+    },
+    {
+      "genus": "Bifidobacterium",
+      "species": "dentium",
+      "strain": "ATCC 27534",
+      "shortCode": "BDENT27534",
+      "color": "#3B82F6",
+      "glowColor": "rgba(59,130,246,0.4)",
+      "rarity": "common",
+      "category": [
+        "Ústní dutina",
+        "Trávení"
+      ],
+      "symptoms": [
+        "zubní kaz",
+        "ústní dysbióza",
+        "zánět dásní",
+        "střevní dysbióza"
+      ],
+      "summary": "Bifidobacterium dentium ATCC 27534 je komenzální druh izolovaný z lidské ústní dutiny a střevního traktu. Přispívá k udržení zdravé ústní mikrobioty a produkuje antimikrobiální látky. Výzkumy naznačují jeho roli v prevenci zubního kazu a podpoře orálního zdraví.",
+      "mechanisms": [
+        "Produkce antimikrobiálních látek",
+        "Kompetitivní inhibice kariogenních bakterií",
+        "Adheze k ústnímu epitelu",
+        "Modulace ústní mikrobioty"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Přirozený komenzál člověka. Bezpečný pro běžnou populaci.",
+      "studies": [
+        {
+          "title": "Bifidobacterium dentium as a human commensal: probiotic potential",
+          "journal": "Frontiers in Microbiology",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37736147/"
+        },
+        {
+          "title": "Oral Bifidobacterium species and their role in caries prevention",
+          "journal": "Journal of Oral Microbiology",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38937410/"
+        }
+      ]
+    },
+    {
+      "genus": "Bacillus",
+      "species": "laterosporus",
+      "strain": "BOD",
+      "shortCode": "BLBOD",
+      "color": "#F59E0B",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "rarity": "rare",
+      "category": [
+        "Trávení",
+        "Antimikrobiální"
+      ],
+      "symptoms": [
+        "průjem",
+        "střevní infekce",
+        "střevní dysbióza",
+        "parazitární infekce"
+      ],
+      "summary": "Bacillus laterosporus BOD (Brevibacillus laterosporus) je unikátní spórotvorný probiotický kmen s kanadickým patentem. Vyznačuje se silnou antimikrobiální a antiparazitární aktivitou. Produkuje laterosporulin a další bioaktivní látky účinné proti patogenním bakteriím a prvokům.",
+      "mechanisms": [
+        "Produkce laterosporulinu a antimikrobiálních peptidů",
+        "Antiparazitární aktivita",
+        "Tvorba odolných spór",
+        "Imunomodulace"
+      ],
+      "dosage": "10⁹ až 10¹⁰ CFU/den",
+      "safety": "Bezpečný pro běžnou populaci. Opatrnost u imunokompromitovaných.",
+      "studies": [
+        {
+          "title": "Brevibacillus laterosporus as a probiotic: antimicrobial properties",
+          "journal": "Probiotics and Antimicrobial Proteins",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37249050/"
+        },
+        {
+          "title": "Bacillus laterosporus BOD: antiparasitic and probiotic effects",
+          "journal": "Applied Microbiology and Biotechnology",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35316390/"
         }
       ]
     }

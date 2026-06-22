@@ -148,6 +148,23 @@ const icons: Record<string, (size: number) => JSX.Element> = {
       <circle cx="12" cy="12" r="1.5" fill="currentColor" opacity="0.4" />
     </svg>
   ),
+  Levilactobacillus: (s) => (
+    <svg width={s} height={s} viewBox="0 0 24 24" fill="none">
+      <rect x="3" y="7" width="7" height="10" rx="3.5" stroke="currentColor" strokeWidth="1.5" />
+      <rect x="14" y="7" width="7" height="10" rx="3.5" stroke="currentColor" strokeWidth="1.5" />
+      <line x1="10" y1="12" x2="14" y2="12" stroke="currentColor" strokeWidth="1.5" />
+      <circle cx="6.5" cy="12" r="1" fill="currentColor" opacity="0.5" />
+      <circle cx="17.5" cy="12" r="1" fill="currentColor" opacity="0.5" />
+    </svg>
+  ),
+  Latilactobacillus: (s) => (
+    <svg width={s} height={s} viewBox="0 0 24 24" fill="none">
+      <path d="M4 8h16a2 2 0 012 2v4a2 2 0 01-2 2H4a2 2 0 01-2-2v-4a2 2 0 012-2z" stroke="currentColor" strokeWidth="1.5" fill="none" />
+      <path d="M4 10c0-1 1-2 2-2s2 1 2 2v0" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" opacity="0.4" />
+      <path d="M20 14c0 1-1 2-2 2s-2-1-2-2v0" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" opacity="0.4" />
+      <circle cx="12" cy="12" r="1.5" fill="currentColor" opacity="0.5" />
+    </svg>
+  ),
 };
 
 const defaultIcon = (s: number) => (

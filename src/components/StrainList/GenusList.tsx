@@ -7,6 +7,8 @@ const genusColors: Record<string, string> = {
   Lactiplantibacillus: "#22C55E",
   Limosilactobacillus: "#F472B6",
   Ligilactobacillus: "#FB923C",
+  Levilactobacillus: "#FBBF24",
+  Latilactobacillus: "#EC4899",
   Bifidobacterium: "#60A5FA",
   Bacillus: "#F59E0B",
   Saccharomyces: "#FACC15",
