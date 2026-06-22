@@ -10,36 +10,32 @@ interface Props {
 export default function StrainCard({ strain, isSelected, onClick }: Props) {
   return (
     <button
-      onClick={onClick}
-      className={`w-full border-b border-border-subtle px-4 py-3 text-left transition-all animate-slide-in hover:bg-elevated ${
-        isSelected
-          ? "border-l-2 border-green-glow bg-elevated pl-[14px]"
-          : "border-l-2 border-transparent"
-      }`}
       type="button"
+      onClick={onClick}
+      className="group relative w-full overflow-hidden border-b border-border-subtle px-4 py-3 text-left transition-all animate-slide-in hover:bg-elevated"
+      style={{ borderColor: isSelected ? `${strain.color}55` : undefined }}
     >
+      {isSelected && (
+        <div
+          className="absolute inset-y-0 left-0 w-0.5"
+          style={{ backgroundColor: strain.color, boxShadow: `0 0 8px ${strain.glowColor}` }}
+        />
+      )}
       <div className="flex items-start justify-between gap-2">
         <div className="min-w-0 flex-1">
-          <p className="truncate font-sans text-[13px] font-semibold text-text-primary">
+          <p className="truncate font-sans text-[13px] font-semibold text-text-primary group-hover:text-white">
             <span className="italic">{strain.genus} {strain.species}</span>
           </p>
-          <p className="truncate font-mono text-[11px] text-text-muted">
+          <p className="truncate font-mono text-[11px] font-medium" style={{ color: strain.color }}>
             {strain.strain}
+          </p>
+          <p className="mt-1 font-mono text-[10px] text-text-faint">
+            {strain.shortCode}
           </p>
         </div>
         <div className="mt-0.5 flex-shrink-0">
           <RarityBadge rarity={strain.rarity} />
         </div>
-      </div>
-
-      <div className="mt-2 flex gap-1 truncate">
-        <span
-          className="inline-block h-2 w-2 flex-shrink-0 rounded-full"
-          style={{ backgroundColor: strain.color }}
-        />
-        <span className="truncate font-mono text-[10px] text-text-faint">
-          {strain.shortCode}
-        </span>
       </div>
     </button>
   );

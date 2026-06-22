@@ -1,8 +1,10 @@
 import type { Strain } from "../../types/strain";
-import type { SortKey } from "../../hooks/useStrainFilter";
-import t from "../../i18n/cs";
 import SearchBar from "./SearchBar";
 import StrainCard from "./StrainCard";
+import GenusList from "./GenusList";
+import SpeciesList from "./SpeciesList";
+import Breadcrumb from "./Breadcrumb";
+import t from "../../i18n/cs";
 
 interface Props {
   strains: Strain[];
@@ -11,116 +13,101 @@ interface Props {
   onSelect: (id: number) => void;
   query: string;
   onQueryChange: (v: string) => void;
-  genusFilter: string;
-  onGenusFilterChange: (v: string) => void;
-  speciesFilter: string;
-  onSpeciesFilterChange: (v: string) => void;
-  rarityFilter: string;
-  onRarityFilterChange: (v: string) => void;
-  categoryFilter: string;
-  onCategoryFilterChange: (v: string) => void;
-  sortKey: SortKey;
-  onSortKeyChange: (k: SortKey) => void;
-  genera: string[];
-  species: string[];
-  categories: string[];
+  view: "genus" | "species" | "strain";
+  selectedGenus: string | null;
+  selectedSpecies: string | null;
+  onSelectGenus: (g: string) => void;
+  onSelectSpecies: (sp: string) => void;
+  onBack: () => void;
+  onHome: () => void;
 }
-
-const rarityOptions = ["legendary", "epic", "rare", "common"] as const;
 
 export default function StrainList(props: Props) {
   return (
     <div className="flex h-full flex-col">
       <div className="border-b border-border-subtle p-3">
         <SearchBar value={props.query} onChange={props.onQueryChange} />
-
-        <div className="mt-2 grid grid-cols-2 gap-1.5">
-          <select
-            value={props.genusFilter}
-            onChange={(e) => props.onGenusFilterChange(e.target.value)}
-            className="rounded border border-border-subtle bg-elevated px-2 py-1.5 text-[11px] text-text-primary outline-none"
+        {(props.view === "species" || props.view === "strain") && (
+          <button
+            type="button"
+            onClick={props.onHome}
+            className="mt-2 flex items-center gap-1 rounded-lg px-2 py-1 text-[10px] text-text-faint transition-colors hover:text-text-muted"
           >
-            <option value="">{t.allOption} — {t.filterGenus}</option>
-            {props.genera.map((g) => (
-              <option key={g} value={g}>
-                {g}
-              </option>
-            ))}
-          </select>
-
-          <select
-            value={props.rarityFilter}
-            onChange={(e) => props.onRarityFilterChange(e.target.value)}
-            className="rounded border border-border-subtle bg-elevated px-2 py-1.5 text-[11px] text-text-primary outline-none"
-          >
-            <option value="">{t.allOption} — {t.filterRarity}</option>
-            {rarityOptions.map((r) => (
-              <option key={r} value={r}>
-                {r.charAt(0).toUpperCase() + r.slice(1)}
-              </option>
-            ))}
-          </select>
-
-          <select
-            value={props.speciesFilter}
-            onChange={(e) => props.onSpeciesFilterChange(e.target.value)}
-            className="rounded border border-border-subtle bg-elevated px-2 py-1.5 text-[11px] text-text-primary outline-none"
-          >
-            <option value="">{t.allOption} — {t.filterSpecies}</option>
-            {props.species.map((sp) => (
-              <option key={sp} value={sp}>
-                {sp}
-              </option>
-            ))}
-          </select>
-
-          <select
-            value={props.categoryFilter}
-            onChange={(e) => props.onCategoryFilterChange(e.target.value)}
-            className="rounded border border-border-subtle bg-elevated px-2 py-1.5 text-[11px] text-text-primary outline-none"
-          >
-            <option value="">{t.allOption} — {t.filterCategory}</option>
-            {props.categories.map((c) => (
-              <option key={c} value={c}>
-                {c}
-              </option>
-            ))}
-          </select>
-        </div>
-
-        <div className="mt-2 flex gap-1">
-          {(["name", "rarity", "species"] as SortKey[]).map((k) => (
-            <button
-              key={k}
-              type="button"
-              onClick={() => props.onSortKeyChange(k)}
-              className={`rounded px-2 py-1 text-[10px] font-medium transition-colors ${
-                props.sortKey === k
-                  ? "bg-green-glow/10 text-green-glow"
-                  : "text-text-faint hover:text-text-muted"
-              }`}
-            >
-              {k === "name" ? t.sortByName : k === "rarity" ? t.sortByRarity : t.sortBySpecies}
-            </button>
-          ))}
-        </div>
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+              <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" />
+            </svg>
+            Všechny rody
+          </button>
+        )}
       </div>
 
+      {props.view !== "genus" && (
+        <Breadcrumb
+          crumbs={[
+            {
+              label: props.selectedGenus || "",
+              onClick: () => {
+                if (props.view === "strain") {
+                  props.onBack();
+                }
+              },
+            },
+            ...(props.view === "strain"
+              ? [
+                  {
+                    label: props.selectedSpecies || "",
+                    onClick: () => {},
+                  },
+                ]
+              : []),
+          ]}
+        />
+      )}
+
       <div className="flex-1 overflow-y-auto">
-        {props.filtered.length === 0 ? (
-          <p className="p-4 text-center text-[12px] text-text-faint">
-            {t.noResults}
-          </p>
+        {props.view === "genus" ? (
+          props.query.trim() ? (
+            props.filtered.length === 0 ? (
+              <p className="p-4 text-center text-[12px] text-text-faint">{t.noResults}</p>
+            ) : (
+              <div className="animate-fade-in">
+                {props.filtered.map((strain, i) => (
+                  <div key={strain.id} style={{ animationDelay: `${i * 20}ms` }} className="animate-slide-in">
+                    <StrainCard
+                      strain={strain}
+                      isSelected={props.selectedId === strain.id}
+                      onClick={() => props.onSelect(strain.id)}
+                    />
+                  </div>
+                ))}
+              </div>
+            )
+          ) : (
+            <GenusList strains={props.strains} onSelectGenus={props.onSelectGenus} />
+          )
+        ) : props.view === "species" ? (
+          <SpeciesList
+            genus={props.selectedGenus!}
+            strains={props.filtered}
+            onSelectSpecies={props.onSelectSpecies}
+            onBack={props.onBack}
+          />
         ) : (
-          props.filtered.map((strain, i) => (
-            <div key={strain.id} style={{ animationDelay: `${i * 20}ms` }} className="animate-slide-in">
-              <StrainCard
-                strain={strain}
-                isSelected={props.selectedId === strain.id}
-                onClick={() => props.onSelect(strain.id)}
-              />
+          props.filtered.length === 0 ? (
+            <p className="p-4 text-center text-[12px] text-text-faint">{t.noResults}</p>
+          ) : (
+            <div className="animate-fade-in">
+              {props.filtered.map((strain, i) => (
+                <div key={strain.id} style={{ animationDelay: `${i * 20}ms` }} className="animate-slide-in">
+                  <StrainCard
+                    strain={strain}
+                    isSelected={props.selectedId === strain.id}
+                    onClick={() => props.onSelect(strain.id)}
+                  />
+                </div>
+              ))}
             </div>
-          ))
+          )
         )}
       </div>
     </div>

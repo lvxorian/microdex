@@ -1,4 +1,5 @@
 import type { AIRecommendation, Strain } from "../../types/strain";
+import RarityBadge from "../ui/RarityBadge";
 
 interface Props {
   recommendation: AIRecommendation;
@@ -8,76 +9,76 @@ interface Props {
 export default function AIResultCard({ recommendation, strain }: Props) {
   const scoreColor =
     recommendation.score >= 80
-      ? "text-green-glow"
+      ? "var(--green-glow)"
       : recommendation.score >= 50
-        ? "text-amber"
-        : "text-text-muted";
+        ? "var(--amber)"
+        : "var(--text-muted)";
 
   return (
-    <div className="rounded border border-border-subtle bg-base p-4 transition-all hover:border-border-accent">
-      <div className="mb-2 flex items-center justify-between">
-        <div className="flex items-center gap-2">
+    <div className="glass rounded-xl p-4 transition-all hover:border-green-glow/20 hover:-translate-y-px">
+      <div className="mb-3 flex items-center justify-between">
+        <div className="flex items-center gap-3 min-w-0">
           {strain && (
-            <span
-              className="inline-block h-3 w-3 rounded-full"
-              style={{ backgroundColor: strain.color }}
-            />
+            <div
+              className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full"
+              style={{
+                background: `${strain.color}18`,
+                boxShadow: `0 0 16px ${strain.glowColor}`,
+              }}
+            >
+              <span className="font-mono text-xs font-bold" style={{ color: strain.color }}>
+                {strain.shortCode}
+              </span>
+            </div>
           )}
-          <p className="font-sans text-[13px] font-semibold text-text-primary">
-            {strain ? (
-              <>
-                <span className="italic">{strain.genus} {strain.species}</span>{" "}
-                <span className="font-mono text-[11px]">{strain.strain}</span>
-              </>
-            ) : (
-              `Kmen #${recommendation.strainId}`
+          <div className="min-w-0">
+            <p className="truncate font-sans text-[13px] font-semibold text-text-primary">
+              {strain ? (
+                <>
+                  <span className="italic">{strain.genus} {strain.species}</span>
+                </>
+              ) : (
+                `Kmen #${recommendation.strainId}`
+              )}
+            </p>
+            {strain && (
+              <div className="flex items-center gap-1.5">
+                <span className="font-mono text-[11px]" style={{ color: strain.color }}>
+                  {strain.strain}
+                </span>
+                <RarityBadge rarity={strain.rarity} />
+              </div>
             )}
-          </p>
+          </div>
         </div>
-        <span
-          className={`font-mono text-sm font-bold ${scoreColor}`}
-          style={{ textShadow: recommendation.score >= 80 ? `0 0 12px var(--green-glow)` : "none" }}
-        >
-          {recommendation.score}%
-        </span>
+        <div className="flex-shrink-0 text-right">
+          <span
+            className="font-mono text-xl font-bold"
+            style={{
+              color: scoreColor,
+              textShadow:
+                recommendation.score >= 80
+                  ? `0 0 16px ${scoreColor}`
+                  : undefined,
+            }}
+          >
+            {recommendation.score}
+          </span>
+          <span className="font-mono text-[10px]" style={{ color: scoreColor }}>%</span>
+        </div>
       </div>
 
       <p className="mb-3 font-sans text-[12px] leading-relaxed text-text-muted">
         {recommendation.reasoning}
       </p>
 
-      {strain && (
-        <div className="flex flex-wrap gap-1">
-          {strain.category.slice(0, 3).map((c) => (
-            <span
-              key={c}
-              className="rounded-full bg-surface px-2 py-0.5 font-sans text-[10px] text-text-muted"
-            >
-              {c}
-            </span>
-          ))}
-          {strain.dosage && (
-            <span className="font-mono text-[10px] text-text-faint">
-              {strain.dosage}
-            </span>
-          )}
-        </div>
-      )}
-
-      <div
-        className="mt-2 h-1 overflow-hidden rounded-full bg-border-subtle"
-        title={`Skóre: ${recommendation.score}`}
-      >
+      <div className="h-1 overflow-hidden rounded-full bg-border-subtle">
         <div
           className="h-full rounded-full"
           style={{
             width: `${recommendation.score}%`,
-            backgroundColor:
-              recommendation.score >= 80
-                ? "var(--green-glow)"
-                : recommendation.score >= 50
-                  ? "var(--amber)"
-                  : "var(--text-muted)",
+            background: `linear-gradient(90deg, ${scoreColor}66, ${scoreColor})`,
+            boxShadow: recommendation.score >= 80 ? `0 0 8px ${scoreColor}` : undefined,
           }}
         />
       </div>
