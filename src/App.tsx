@@ -142,6 +142,8 @@ function BrowseView() {
     </div>
   );
 
+  const showFullWidth = view === "genus" && !query.trim() && !selected;
+
   const goHome = () => resetToHome();
 
   return (
@@ -151,7 +153,13 @@ function BrowseView() {
         element={
           <>
             <div className="hidden md:block">
-              <SplitLayout left={listPanel} right={detailPanel} />
+              {showFullWidth ? (
+                <div className="flex h-[calc(100vh-56px)] overflow-y-auto bg-surface">
+                  {listPanel}
+                </div>
+              ) : (
+                <SplitLayout left={listPanel} right={detailPanel} />
+              )}
             </div>
             <div className="md:hidden">
               {selected ? (

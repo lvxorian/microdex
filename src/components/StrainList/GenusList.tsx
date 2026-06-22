@@ -34,7 +34,8 @@ export default function GenusList({ strains, onSelectGenus }: Props) {
   strains.forEach((s) => counts.set(s.genus, (counts.get(s.genus) || 0) + 1));
 
   return (
-    <div className="grid grid-cols-2 gap-3 p-4 md:grid-cols-3 lg:grid-cols-2 xl:grid-cols-3">
+    <div className="mx-auto w-full max-w-7xl">
+      <div className="grid grid-cols-2 gap-3 p-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
       {genera.map((genus, i) => {
         const c = genusColors[genus] || "#9CA3AF";
         return (
@@ -60,7 +61,7 @@ export default function GenusList({ strains, onSelectGenus }: Props) {
             </div>
             <div className="w-full text-center min-w-0">
               <p
-                className="truncate font-sans text-[12px] font-semibold leading-tight px-1"
+                className="truncate font-sans text-[13px] font-semibold leading-tight px-1"
                 style={{ color: c }}
                 title={genus}
               >
@@ -73,6 +74,7 @@ export default function GenusList({ strains, onSelectGenus }: Props) {
           </button>
         );
       })}
+      </div>
     </div>
   );
 }
