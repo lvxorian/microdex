@@ -154,7 +154,7 @@ function BrowseView() {
           <>
             <div className="hidden md:block">
               {showFullWidth ? (
-                <div className="flex h-[calc(100vh-56px)] overflow-y-auto bg-surface">
+                <div className="h-[calc(100vh-56px)] w-full overflow-y-auto bg-surface">
                   {listPanel}
                 </div>
               ) : (
