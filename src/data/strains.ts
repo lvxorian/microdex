@@ -17,7 +17,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro většinu populace. Opatrnost u výrazně imunokompromitovaných pacientů.",
-    studies: [{"title":"Probiotic La-5 improves symptoms of IBS-D: A randomized controlled trial","journal":"World Journal of Gastroenterology","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32091443/"},{"title":"Efficacy of Lactobacillus acidophilus La-5 in antibiotic-associated diarrhea prevention","journal":"Beneficial Microbes","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31012733/"}],
+    studies: [{"title":"The nutrient requirements of Lactobacillus acidophilus LA-5 and their application to fermented milk.","journal":"Journal of dairy science","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/33131816/"},{"title":"Comparing the Effect of Probiotic and Fluconazole on Treatment and Recurrence of Vulvovaginal Candidiasis: a Triple-Blinded Randomized Controlled Trial.","journal":"Probiotics and antimicrobial proteins","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36198994/"}],
   },
   {
     id: 2,
@@ -35,7 +35,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Velmi dobře tolerovaný kmen s dlouhou historií bezpečného použití.",
-    studies: [{"title":"Genomic analysis of L. acidophilus NCFM and its role in gut health","journal":"PNAS","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/15671160/"},{"title":"NCFM supplementation reduces abdominal pain in functional bowel disorders","journal":"Gut Microbes","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/25099542/"}],
+    studies: [{"title":"Lactobacillus acidophilus NCFM and Lactiplantibacillus plantarum Lp-115 inhibit Helicobacter pylori colonization and gastric inflammation in a murine model.","journal":"Frontiers in cellular and infection microbiology","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37621875/"},{"title":"Invited review: the scientific basis of Lactobacillus acidophilus NCFM functionality as a probiotic.","journal":"Journal of dairy science","year":2001,"url":"https://pubmed.ncbi.nlm.nih.gov/11233016/"}],
   },
   {
     id: 3,
@@ -53,7 +53,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 2×10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé i děti od 3 let. Vhodný během těhotenství.",
-    studies: [{"title":"LA-14 and HN001 combination for vaginal microbiome restoration","journal":"Frontiers in Microbiology","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/29950859/"},{"title":"L. acidophilus LA-14 modulates gut-brain axis in IBS patients","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/34248885/"}],
+    studies: [{"title":"Lactobacillus rhamnosus HN001 and Lactobacillus acidophilus La-14 Attenuate Gardnerella vaginalis-Infected Bacterial Vaginosis in Mice.","journal":"Nutrients","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28545241/"},{"title":"Bacteriocin production and resistance to drugs are advantageous features for Lactobacillus acidophilus La-14, a potential probiotic strain.","journal":"The new microbiologica","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/22143809/"}],
   },
   {
     id: 4,
@@ -71,7 +71,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "5×10⁹ až 10¹⁰ CFU/den",
     safety: "Dlouhodobě používaný kmen s prokázanou bezpečností u dospělých i seniorů.",
-    studies: [{"title":"DDS-1 alleviates lactose intolerance: A double-blind trial","journal":"Journal of Dairy Science","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/27209130/"},{"title":"Immunomodulatory effects of L. acidophilus DDS-1 in elderly","journal":"Clinical and Experimental Immunology","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31078219/"}],
+    studies: [{"title":"Lactobacillus acidophilus DDS-1 and Bifidobacterium lactis UABla-12 Improve Abdominal Pain Severity and Symptomology in Irritable Bowel Syndrome: Randomized Controlled Trial.","journal":"Nutrients","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32019158/"},{"title":"Lactobacillus acidophilus DDS-1 Modulates the Gut Microbial Co-Occurrence Networks in Aging Mice.","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35267950/"}],
   },
   {
     id: 5,
@@ -89,7 +89,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Vhodný pro dospělé a děti od 6 let.",
-    studies: [{"title":"Rosell-418 reduces traveler's diarrhea: A randomized study","journal":"Travel Medicine and Infectious Disease","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28884689/"},{"title":"L. acidophilus Rosell-418 probiotic efficacy in gut dysbiosis","journal":"Microorganisms","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36819095/"}],
+    studies: [{"title":"The Functional Roles of Lactobacillus acidophilus in Different Physiological and Pathological Processes.","journal":"Journal of microbiology and biotechnology","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36196014/"},{"title":"Lactobacillus species: taxonomic complexity and controversial susceptibilities.","journal":"Clinical infectious diseases : an official publication of the Infectious Diseases Society of America","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/25922408/"}],
   },
   {
     id: 6,
@@ -107,7 +107,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Referenční laboratorní kmen, bezpečný pro výzkumné a komerční použití.",
-    studies: [{"title":"Characterization of bile salt hydrolase activity in ATCC 4356","journal":"Applied and Environmental Microbiology","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/25690563/"},{"title":"Comparative genomics of L. acidophilus reference strains","journal":"Microbial Genomics","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32735220/"}],
+    studies: [{"title":"Lactobacillus acidophilus ATCC 4356 Alleviates Renal Ischemia-Reperfusion Injury Through Antioxidant Stress and Anti-inflammatory Responses and Improves Intestinal Microbial Distribution.","journal":"Frontiers in nutrition","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34046422/"},{"title":"Encapsulation of probiotic Lactobacillus acidophilus ATCC 4356 in alginate-galbanum (Ferula Gummosa Boiss) gum microspheres and evaluation of the survival in simulated gastrointestinal conditions in probiotic Tahini halva.","journal":"Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37515666/"}],
   },
   {
     id: 7,
@@ -125,7 +125,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Extrémně dobře zdokumentovaná bezpečnost. Bezpečný pro novorozence, těhotné i imunokompromitované.",
-    studies: [{"title":"LGG for prevention of antibiotic-associated diarrhea in children: Updated meta-analysis","journal":"Journal of Pediatric Gastroenterology and Nutrition","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30586435/"},{"title":"LGG reduces atopic dermatitis in high-risk infants: A randomized trial","journal":"The Lancet","year":2001,"url":"https://pubmed.ncbi.nlm.nih.gov/11549824/"}],
+    studies: [{"title":"Thirty Years of Lactobacillus rhamnosus GG: A Review.","journal":"Journal of clinical gastroenterology","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30741841/"},{"title":"Therapeutic effects elicited by the probiotic Lacticaseibacillus rhamnosus GG in children with atopic dermatitis. The results of the ProPAD trial.","journal":"Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36003050/"}],
   },
   {
     id: 8,
@@ -143,7 +143,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "6×10⁹ CFU/den",
     safety: "Velmi bezpečný kmen testovaný u těhotných žen a novorozenců bez nežádoucích účinků.",
-    studies: [{"title":"Long-term effect of HN001 on eczema and atopy: 6-year follow-up","journal":"Journal of Allergy and Clinical Immunology","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/18685500/"},{"title":"HN001 supplementation and postpartum depression: double-blind RCT","journal":"Brain, Behavior, and Immunity","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28923425/"}],
+    studies: [{"title":"Effects of Lacticaseibacillus rhamnosus HN001 on Happiness and Mental Well-Being: Findings from a Randomized Controlled Trial.","journal":"Nutrients","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39275252/"},{"title":"Effects of dietary fibers or probiotics on functional constipation symptoms and roles of gut microbiota: a double-blinded randomized placebo trial.","journal":"Gut microbes","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37078654/"}],
   },
   {
     id: 9,
@@ -161,7 +161,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 2×10⁹ CFU/den",
     safety: "Prokázaná bezpečnost při vaginálním i orálním podání. Vhodný během těhotenství.",
-    studies: [{"title":"GR-1 and RC-14 for recurrent UTI and BV: A systematic review","journal":"Clinical Infectious Diseases","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/18240278/"},{"title":"Probiotic GR-1 reduces urogenital pathogen biofilm formation","journal":"FEMS Immunology and Medical Microbiology","year":2009,"url":"https://pubmed.ncbi.nlm.nih.gov/19367213/"}],
+    studies: [{"title":"Lacticaseibacillus rhamnosus GR-1, a.k.a. Lactobacillus rhamnosus GR-1: Past and Future Perspectives.","journal":"Trends in microbiology","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/33865678/"},{"title":"Effect of Oral Probiotic Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14 on the Vaginal Microbiota, Cytokines and Chemokines in Pregnant Women.","journal":"Nutrients","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32019222/"}],
   },
   {
     id: 10,
@@ -179,7 +179,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Dobře tolerovaný kmen. Vhodný pro děti od 3 let a dospělé.",
-    studies: [{"title":"Rosell-11 reduces respiratory infections in children","journal":"Pediatric Research","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33250419/"},{"title":"Immunomodulation by L. rhamnosus Rosell-11 under stress","journal":"Nutrients","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/35631167/"}],
+    studies: [{"title":"The Effect of Probiotics on Health in Pregnancy and Infants: A Randomized, Double-Blind, Placebo-Controlled Trial.","journal":"Nutrients","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40507094/"},{"title":"Probiotics as Adjuvants to Standard Helicobacter pylori Treatment: Evidence for the Use of Lacidofil(®), an Established Blend of Thoroughly Characterized Strains.","journal":"Microorganisms","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/41156685/"}],
   },
   {
     id: 11,
@@ -197,7 +197,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro orální i střevní použití.",
-    studies: [{"title":"Lr-32 inhibits oral pathogens and reduces caries risk","journal":"Journal of Applied Microbiology","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/27799324/"},{"title":"Probiotic L. rhamnosus in oral health applications","journal":"Probiotics and Antimicrobial Proteins","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30597307/"}],
+    studies: [{"title":"A Probiotic Mixture of Lactobacillus rhamnosus LR 32, Bifidobacterium lactis BL 04, and Bifidobacterium longum BB 536 Counteracts the Increase in Permeability Induced by the Mucosal Mediators of Irritable Bowel Syndrome by Acting on Zonula Occludens 1.","journal":"International journal of molecular sciences","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40141298/"},{"title":"Lactobacilli Probiotics Modulate Antibacterial Response Gene Transcription of Dendritic Cells Challenged with LPS.","journal":"Probiotics and antimicrobial proteins","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/36696085/"}],
   },
   {
     id: 12,
@@ -215,7 +215,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil potvrzený v klinických studiích s H. pylori pacienty.",
-    studies: [{"title":"SP1 as adjuvant therapy in H. pylori eradication: Randomized trial","journal":"Helicobacter","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/30754053/"},{"title":"L. rhamnosus SP1 anti-inflammatory mechanisms in gastric mucosa","journal":"Frontiers in Cellular and Infection Microbiology","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/33945456/"}],
+    studies: [{"title":"Clinical Effects of Lactobacillus rhamnosus in Non-Surgical Treatment of Chronic Periodontitis: A Randomized Placebo-Controlled Trial With 1-Year Follow-Up.","journal":"Journal of periodontology","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26944407/"},{"title":"Microbiological and clinical effects of probiotics and antibiotics on nonsurgical treatment of chronic periodontitis: a randomized placebo- controlled trial with 9-month follow-up.","journal":"Journal of applied oral science : revista FOB","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/29364340/"}],
   },
   {
     id: 13,
@@ -233,7 +233,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10¹⁰ CFU/den",
     safety: "Výborný bezpečnostní profil potvrzený v četných klinických studiích.",
-    studies: [{"title":"L. plantarum 299v improves IBS: Systematic review and meta-analysis","journal":"American Journal of Gastroenterology","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/23299716/"},{"title":"299v reduces intestinal permeability and systemic inflammation","journal":"Nutrients","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26810481/"}],
+    studies: [{"title":"Lactiplantibacillus plantarum 299v (LP299V(®)): three decades of research.","journal":"Beneficial microbes","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34365915/"},{"title":"Probiotic Lactobacillus Plantarum 299v decreases kynurenine concentration and improves cognitive functions in patients with major depression: A double-blind, randomized, placebo controlled study.","journal":"Psychoneuroendocrinology","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30388595/"}],
   },
   {
     id: 14,
@@ -251,7 +251,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Vhodný pro dospělé a dospívající.",
-    studies: [{"title":"Lp-115 reduces severity of common cold episodes","journal":"European Journal of Nutrition","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30480774/"},{"title":"Anti-inflammatory effects of L. plantarum Lp-115 in intestinal cells","journal":"Frontiers in Immunology","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31234904/"}],
+    studies: [{"title":"Lactobacillus acidophilus NCFM and Lactiplantibacillus plantarum Lp-115 inhibit Helicobacter pylori colonization and gastric inflammation in a murine model.","journal":"Frontiers in cellular and infection microbiology","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37621875/"},{"title":"Enhancement of bile resistance by maltodextrin supplementation in Lactobacillus plantarum Lp-115.","journal":"Journal of applied microbiology","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30790408/"}],
   },
   {
     id: 15,
@@ -269,7 +269,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Kmen izolovaný ze zdravého lidského dárce s očekávanou bezpečností.",
-    studies: [{"title":"CECT 7484 inhibits enteropathogens in gut model","journal":"Journal of Functional Foods","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/25526510/"},{"title":"Modulation of intestinal microbiota by L. plantarum CECT 7484","journal":"Beneficial Microbes","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/29380633/"}],
+    studies: [{"title":"Clinical and Metabolomic Effects of Lactiplantibacillus plantarum and Pediococcus acidilactici in Fructose Intolerant Patients.","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35745219/"},{"title":"Probiotics plus vitamin D in irritable bowel syndrome: a prospective multicentric non-interventional study.","journal":"Minerva gastroenterology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38445822/"}],
   },
   {
     id: 16,
@@ -287,7 +287,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Omezené údaje u dětí do 3 let.",
-    studies: [{"title":"CECT 7485 modulates allergic inflammation in atopic dermatitis","journal":"International Archives of Allergy and Immunology","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26707956/"},{"title":"L. plantarum CECT 7485 and gut-skin axis modulation","journal":"Experimental Dermatology","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/32117812/"}],
+    studies: [{"title":"Clinical and Metabolomic Effects of Lactiplantibacillus plantarum and Pediococcus acidilactici in Fructose Intolerant Patients.","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35745219/"},{"title":"Probiotics plus vitamin D in irritable bowel syndrome: a prospective multicentric non-interventional study.","journal":"Minerva gastroenterology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38445822/"}],
   },
   {
     id: 17,
@@ -305,7 +305,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil. Opatrnost u pacientů s těžkou poruchou jaterních funkcí.",
-    studies: [{"title":"Cholesterol-lowering effect of L. plantarum Lp-01","journal":"Journal of Functional Foods","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31577828/"},{"title":"Lp-01 improves insulin sensitivity in diet-induced obese mice","journal":"Molecular Nutrition and Food Research","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/34576738/"}],
+    studies: [{"title":"Conjugated Linoleic Acid Production in Pine Nut Oil: A Lactiplantibacillus plantarum Lp-01 Fermentation Approach.","journal":"Foods (Basel, Switzerland)","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39200400/"}],
   },
   {
     id: 18,
@@ -323,7 +323,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Vhodný pro běžnou populaci.",
-    studies: [{"title":"Antimicrobial properties of L. plantarum Lp-02 against pathogens","journal":"Food Control","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30036830/"},{"title":"Lp-02 enhances intestinal barrier function","journal":"Nutrients","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32592699/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Oral administration of Lactiplantibacillus plantarum 6.2 mitigates acute lung injury via immunostaining of the TLR4/NF-κB pathway and reduction of IL-17 in lung tissue.","journal":"International microbiology : the official journal of the Spanish Society for Microbiology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42319604/"}],
   },
   {
     id: 19,
@@ -341,7 +341,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Opatrnost u pacientů užívajících antihypertenziva.",
-    studies: [{"title":"Antihypertensive effect of TENSIA: Randomized controlled trial","journal":"Journal of Hypertension","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/26473340/"},{"title":"Oxidative stress reduction by L. plantarum TENSIA","journal":"Nutrients","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/29995348/"}],
+    studies: [{"title":"[Influence of a low-calorie diet with inclusion of probiotic product containing bacterias Lactobacillus plantarum Tensia DSM 21380 on clinical and metabolic characteristics in patients with obesity and arterial hypertension].","journal":"Voprosy pitaniia","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/22642170/"},{"title":"Impact of probiotic Lactobacillus plantarum TENSIA in different dairy products on anthropometric and blood biochemical indices of healthy adults.","journal":"Beneficial microbes","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/25524863/"}],
   },
   {
     id: 20,
@@ -359,7 +359,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "4×10¹⁰ CFU/den",
     safety: "Velmi bezpečný kmen s více než 80letou historií užívání miliardami lidí.",
-    studies: [{"title":"L. casei Shirota prevents colorectal tumors: Epidemiological study","journal":"International Journal of Cancer","year":2006,"url":"https://pubmed.ncbi.nlm.nih.gov/16910934/"},{"title":"Shirota reduces winter infections in elderly","journal":"British Journal of Nutrition","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/18022872/"}],
+    studies: [{"title":"Probiotic Lactobacillus casei strain Shirota relieves stress-associated symptoms by modulating the gut-brain interaction in human and animal models.","journal":"Neurogastroenterology and motility","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26896291/"},{"title":"Beneficial effects of Lactobacillus casei strain Shirota on academic stress-induced sleep disturbance in healthy adults: a double-blind, randomised, placebo-controlled trial.","journal":"Beneficial microbes","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28443383/"}],
   },
   {
     id: 21,
@@ -377,7 +377,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10¹⁰ CFU/den",
     safety: "Velmi dobře tolerovaný kmen, bezpečný pro děti od 1 roku a dospělé.",
-    studies: [{"title":"DN-114001 reduces diarrhea in children: RCT","journal":"Pediatrics","year":2007,"url":"https://pubmed.ncbi.nlm.nih.gov/17443557/"},{"title":"Actimel probiotic reduces common infectious diseases in children","journal":"European Journal of Clinical Nutrition","year":2009,"url":"https://pubmed.ncbi.nlm.nih.gov/19756035/"}],
+    studies: [{"title":"Commercially available probiotic drinks containing Lactobacillus casei DN-114001 reduce antibiotic-associated diarrhea.","journal":"World journal of gastroenterology","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/25400470/"},{"title":"Ability of probiotic Lactobacillus casei DN 114001 to bind or/and metabolise heterocyclic aromatic amines in vitro.","journal":"European journal of nutrition","year":2009,"url":"https://pubmed.ncbi.nlm.nih.gov/19448966/"}],
   },
   {
     id: 22,
@@ -395,7 +395,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Vhodný pro dospělé.",
-    studies: [{"title":"LC-11 effects on cholesterol metabolism","journal":"Lipids in Health and Disease","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/25411286/"},{"title":"Gastrointestinal survival of L. casei LC-11","journal":"Frontiers in Microbiology","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/30037806/"}],
+    studies: [{"title":"Effect of Dietary Composite Probiotic Supplementation on the Microbiota of Different Oral Sites in Cats.","journal":"Veterinary sciences","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39195805/"},{"title":"Mixture of probiotics reduces inflammatory biomarkers and improves the oxidative/nitrosative profile in people with rheumatoid arthritis.","journal":"Nutrition (Burbank, Los Angeles County, Calif.)","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34111674/"}],
   },
   {
     id: 23,
@@ -413,7 +413,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Laboratorní kmen s dobře charakterizovaným bezpečnostním profilem.",
-    studies: [{"title":"Genomic characterization of L. casei BL23","journal":"BMC Genomics","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/20158690/"},{"title":"BL23 anti-inflammatory mechanisms in intestinal cells","journal":"Infection and Immunity","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/26039321/"}],
+    studies: [{"title":"Membrane vesicles released by Lacticaseibacillus casei BL23 inhibit the biofilm formation of Salmonella Enteritidis.","journal":"Scientific reports","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36670157/"},{"title":"Spontaneous Prophage Induction Contributes to the Production of Membrane Vesicles by the Gram-Positive Bacterium Lacticaseibacillus casei BL23.","journal":"mBio","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36200778/"}],
   },
   {
     id: 24,
@@ -431,7 +431,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro zdravou dospělou populaci. Opatrnost u autoimunitních onemocnění.",
-    studies: [{"title":"CASEI 431 enhances immune response to influenza vaccination","journal":"Vaccine","year":2006,"url":"https://pubmed.ncbi.nlm.nih.gov/16962180/"},{"title":"L. casei 431 reduces common cold duration in adults","journal":"Clinical Nutrition","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24225369/"}],
+    studies: [{"title":"Evaluation of the Probiotic Properties of Lacticaseibacillus casei 431(®) Isolated from Food for Special Medical Purposes(§).","journal":"Food technology and biotechnology","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/38205053/"},{"title":"Fermented Milk Supplemented with Sodium Butyrate and Inulin: Physicochemical Characterization and Probiotic Viability Under In Vitro Simulated Gastrointestinal Digestion.","journal":"Nutrients","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40647354/"}],
   },
   {
     id: 25,
@@ -449,7 +449,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Vhodný pro dlouhodobé užívání.",
-    studies: [{"title":"Lpc-37 reduces stress and anxiety: RCT","journal":"Gut Microbes","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26940647/"},{"title":"Gut-brain axis modulation by L. paracasei Lpc-37","journal":"Neurogastroenterology and Motility","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/30168387/"}],
+    studies: [{"title":"Lacticaseibacillus paracasei Lpc-37® improves psychological and physiological markers of stress and anxiety in healthy adults: a randomized, double-blind, placebo-controlled and parallel clinical trial (the Sisu study).","journal":"Neurobiology of stress","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33385020/"},{"title":"Efficacy and safety of Lacticaseibacillus paracasei Lpc-37® in students facing examination stress: A randomized, triple-blind, placebo-controlled clinical trial (the ChillEx study).","journal":"Brain, behavior, & immunity - health","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37662485/"}],
   },
   {
     id: 26,
@@ -467,7 +467,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil. Opatrnost u pacientů s těžkou imunodeficiencí.",
-    studies: [{"title":"CNCM I-1572 reduces visceral hypersensitivity in IBS","journal":"Gastroenterology","year":2007,"url":"https://pubmed.ncbi.nlm.nih.gov/17991652/"},{"title":"Immunomodulatory properties of L. paracasei CNCM I-1572","journal":"Clinical and Experimental Immunology","year":2010,"url":"https://pubmed.ncbi.nlm.nih.gov/20609134/"}],
+    studies: [{"title":"Lactobacillus Paracasei CNCM I 1572 is Better than Placebo in Preventing Acute Diverticulitis Occurrence (Revised Manuscript 661a120f-b910-4133-ab7e-4bd3e1713c96).","journal":"Probiotics and antimicrobial proteins","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/41105168/"},{"title":"Characterization of adhesion, anti-adhesion, co-aggregation, and hydrophobicity of Helicobacter pylori and probiotic strains.","journal":"Journal of Taibah University Medical Sciences","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36969318/"}],
   },
   {
     id: 27,
@@ -485,7 +485,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil pro běžnou populaci.",
-    studies: [{"title":"Survival and adhesion of L. paracasei 8700:2","journal":"Applied Microbiology and Biotechnology","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/15671160/"},{"title":"Probiotic characterization of L. paracasei 8700:2","journal":"Beneficial Microbes","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/22570464/"}],
+    studies: [{"title":"Real-time polymerase chain reaction methods for strain specific identification and enumeration of strain Lacticaseibacillus paracasei 8700:2.","journal":"Frontiers in microbiology","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36741903/"}],
   },
   {
     id: 28,
@@ -503,7 +503,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Dobře tolerovaný v klinických studiích.",
-    studies: [{"title":"F-19 improves bowel habits in chronic constipation","journal":"Scandinavian Journal of Gastroenterology","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/21261954/"},{"title":"Metabolic effects of L. paracasei F-19","journal":"American Journal of Clinical Nutrition","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/25519525/"}],
+    studies: [{"title":"Exploring the potential of red pitaya pulp (Hylocererus sp.) as a plant-based matrix for probiotic delivery and effects on betacyanin content and flavoromics.","journal":"Food research international (Ottawa, Ont.)","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39147472/"},{"title":"Brewer's Spent Grain Enhanced the Recovery of Potential Probiotic Strains in Fermented Milk After Exposure to In Vitro-Simulated Gastrointestinal Conditions.","journal":"Probiotics and antimicrobial proteins","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/34491541/"}],
   },
   {
     id: 29,
@@ -521,7 +521,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ CFU/den",
     safety: "Bezpečný pro děti od 6 měsíců. Ověřeno v pediatrických studiích.",
-    studies: [{"title":"ST11 reduces acute diarrhea in children in Bangladesh","journal":"Journal of Pediatric Gastroenterology and Nutrition","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/20117346/"},{"title":"Immunomodulatory effects of L. paracasei ST11 in malnourished children","journal":"Clinical Infectious Diseases","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/23596157/"}],
+    studies: [{"title":"The Role of Infant Gut Microbiota Modulation by Perinatal Maternal Probiotic Intervention in Atopic Eczema Risk Reduction.","journal":"Neonatology","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/39074448/"},{"title":"Milk Fermented by Lactobacillus paracasei NCC 2461 (ST11) Modulates the Immune Response and Microbiota to Exert its Protective Effects Against Salmonella typhimurium Infection in Mice.","journal":"Probiotics and antimicrobial proteins","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31970649/"}],
   },
   {
     id: 30,
@@ -539,7 +539,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil v klinických studiích. Opatrnost u pacientů s diabetem na inzulínu.",
-    studies: [{"title":"Genomic analysis of L. paracasei Zhang","journal":"BMC Genomics","year":2010,"url":"https://pubmed.ncbi.nlm.nih.gov/20805997/"},{"title":"Zhang improves insulin sensitivity in type 2 diabetes","journal":"Molecular Nutrition and Food Research","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/26512560/"}],
+    studies: [{"title":"Role of the Gut Microbiota and Its Metabolites in Tumorigenesis or Development of Colorectal Cancer.","journal":"Advanced science (Weinheim, Baden-Wurttemberg, Germany)","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37263983/"},{"title":"Transcriptomic analysis of Lacticaseibacillus paracasei Zhang in transition to the viable but non-culturable state by RNA sequencing.","journal":"Frontiers in microbiology","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/38188563/"}],
   },
   {
     id: 31,
@@ -557,7 +557,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁸ až 10⁹ CFU/den",
     safety: "Vynikající bezpečnostní profil u novorozenců, kojenců i dospělých.",
-    studies: [{"title":"DSM 17938 reduces infantile colic: Meta-analysis","journal":"JAMA Pediatrics","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/20713456/"},{"title":"L. reuteri DSM 17938 in functional GI disorders in children","journal":"Pediatric Research","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24276307/"}],
+    studies: [{"title":"Use of Limosilactobacillus reuteri DSM 17938 in paediatric gastrointestinal disorders: an updated review.","journal":"Beneficial microbes","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35212258/"},{"title":"Limosilactobacillus reuteri DSM 17938 as a probiotic in preterm infants: An updated systematic review with meta-analysis and trial sequential analysis.","journal":"JPEN. Journal of parenteral and enteral nutrition","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37742098/"}],
   },
   {
     id: 32,
@@ -575,7 +575,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ CFU/den",
     safety: "Bezpečný v preklinických studiích. Opatrnost u hormonálně senzitivních nádorů.",
-    studies: [{"title":"ATCC PTA 6475 promotes wound healing through oxytocin","journal":"Journal of Investigative Dermatology","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/32119749/"},{"title":"Bone protective effects of L. reuteri ATCC PTA 6475","journal":"Bone","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30633936/"}],
+    studies: [{"title":"The effects of a 6-week intervention with Limosilactobacillus reuteri ATCC PTA 6475 alone and in combination with L. reuteri DSM 17938 on gut barrier function, immune markers, and symptoms in patients with IBS-D-An exploratory RCT.","journal":"PloS one","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39485760/"},{"title":"Limosilactobacillus reuteri DSM 17938 and ATCC PTA 6475 for the treatment of moderate to severe irritable bowel syndrome in adults: a randomized controlled trial.","journal":"Frontiers in gastroenterology (Lausanne, Switzerland)","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41821785/"}],
   },
   {
     id: 33,
@@ -593,7 +593,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "5×10⁸ až 10⁹ CFU/den",
     safety: "Bezpečný pro vaginální i orální podání. Vhodný v těhotenství.",
-    studies: [{"title":"RC-14 and GR-1 for bacterial vaginosis: Meta-analysis","journal":"American Journal of Obstetrics and Gynecology","year":2006,"url":"https://pubmed.ncbi.nlm.nih.gov/16586374/"},{"title":"Biosurfactants produced by RC-14 disrupt pathogen biofilms","journal":"FEMS Immunology and Medical Microbiology","year":2009,"url":"https://pubmed.ncbi.nlm.nih.gov/19367213/"}],
+    studies: [{"title":"Effect of Oral Probiotic Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14 on the Vaginal Microbiota, Cytokines and Chemokines in Pregnant Women.","journal":"Nutrients","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32019222/"},{"title":"Evaluation of reuterin production in urogenital probiotic Lactobacillus reuteri RC-14.","journal":"Applied and environmental microbiology","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/18539802/"}],
   },
   {
     id: 34,
@@ -611,7 +611,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "5×10⁹ CFU/den",
     safety: "Bezpečný pro dospělé. Opatrnost u pacientů užívajících statiny.",
-    studies: [{"title":"NCIMB 30242 reduces LDL cholesterol: RCT","journal":"European Heart Journal","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/22948937/"},{"title":"Mechanisms of cholesterol reduction by L. reuteri NCIMB 30242","journal":"Applied Microbiology and Biotechnology","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/24230457/"}],
+    studies: [{"title":"Evaluation of clinical safety and tolerance of a Lactobacillus reuteri NCIMB 30242 supplement capsule: a randomized control trial.","journal":"Regulatory toxicology and pharmacology : RTP","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/22561556/"},{"title":"Lactobacillus reuteri NCIMB 30242 (LRC) Inhibits Cholesterol Synthesis and Stimulates Cholesterol Excretion in Animal and Cell Models.","journal":"Journal of medicinal food","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37594559/"}],
   },
   {
     id: 35,
@@ -629,7 +629,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁸ až 10⁹ CFU/den",
     safety: "Historicky bezpečný kmen. Méně používaný kvůli potenciálně přenosným plazmidům.",
-    studies: [{"title":"Efficacy of ATCC 55730 in infantile colic","journal":"The Journal of Pediatrics","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/17200296/"},{"title":"Characterization and antibiotic resistance of ATCC 55730","journal":"Antimicrobial Agents and Chemotherapy","year":2004,"url":"https://pubmed.ncbi.nlm.nih.gov/15687474/"}],
+    studies: [{"title":"Meta-analysis: Lactobacillus reuteri strain DSM 17938 (and the original strain ATCC 55730) for treating acute gastroenteritis in children.","journal":"Beneficial microbes","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/24463209/"},{"title":"Lactobacillus reuteri ATCC 55730 and L22 display probiotic potential in vitro and protect against Salmonella-induced pullorum disease in a chick model of infection.","journal":"Research in veterinary science","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/21764090/"}],
   },
   {
     id: 36,
@@ -647,7 +647,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Vhodný pro dospělé.",
-    studies: [{"title":"Probiotic properties of L. plantarum MM4-1A","journal":"International Journal of Food Microbiology","year":2001,"url":"https://pubmed.ncbi.nlm.nih.gov/11506196/"},{"title":"Immunostimulatory activity of L. plantarum MM4-1A","journal":"Biotechnology Letters","year":2006,"url":"https://pubmed.ncbi.nlm.nih.gov/16957257/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Oral administration of Lactiplantibacillus plantarum 6.2 mitigates acute lung injury via immunostaining of the TLR4/NF-κB pathway and reduction of IL-17 in lung tissue.","journal":"International microbiology : the official journal of the Spanish Society for Microbiology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42319604/"}],
   },
   {
     id: 37,
@@ -665,7 +665,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělou populaci. Vhodný pro dlouhodobé užívání.",
-    studies: [{"title":"Antioxidative probiotic ME-3 reduces oxidative stress","journal":"Atherosclerosis","year":2003,"url":"https://pubmed.ncbi.nlm.nih.gov/14678154/"},{"title":"L. fermentum ME-3 improves cardiovascular risk markers","journal":"Journal of Dairy Science","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/21699713/"}],
+    studies: [{"title":"Protective Effect of Limosilactobacillus fermentum ME-3 against the Increase in Paracellular Permeability Induced by Chemotherapy or Inflammatory Conditions in Caco-2 Cell Models.","journal":"International journal of molecular sciences","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37047193/"},{"title":"The use of probiotic L. fermentum ME-3 containing Reg'Activ Cholesterol supplement for 4 weeks has a positive influence on blood lipoprotein profiles and inflammatory cytokines: an open-label preliminary study.","journal":"Nutrition journal","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/27793203/"}],
   },
   {
     id: 38,
@@ -683,7 +683,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "3×10⁹ CFU/den",
     safety: "Bezpečný pro kojící matky a kojence. Izolován z mateřského mléka.",
-    studies: [{"title":"CECT5716 reduces lactational mastitis: RCT","journal":"Clinical Infectious Diseases","year":2010,"url":"https://pubmed.ncbi.nlm.nih.gov/20594187/"},{"title":"Immunological effects of L. fermentum CECT5716 in breast milk","journal":"Journal of Human Lactation","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/26048940/"}],
+    studies: [{"title":"Limosilactobacillus fermentum CECT5716: Mechanisms and Therapeutic Insights.","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/33801082/"},{"title":"Limosilactobacillus fermentum CECT5716: Clinical Potential of a Probiotic Strain Isolated from Human Milk.","journal":"Nutrients","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37432320/"}],
   },
   {
     id: 39,
@@ -701,7 +701,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil pro běžnou populaci.",
-    studies: [{"title":"In vitro adhesion of L. fermentum PCC","journal":"Anaerobe","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/21274883/"},{"title":"Probiotic characterization of L. fermentum PCC","journal":"Journal of Probiotics and Health","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26689229/"}],
+    studies: [{"title":"Characteristics of the adhesion of PCC Lactobacillus fermentum VRI 003 to Peyer's patches.","journal":"FEMS microbiology letters","year":2006,"url":"https://pubmed.ncbi.nlm.nih.gov/16842353/"},{"title":"Metabolomics analysis of okara probiotic beverages fermented with Lactobacillus gasseri and Limosilactobacillus fermentum by LC-QTOF-MS/MS.","journal":"Food chemistry: X","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38357377/"}],
   },
   {
     id: 40,
@@ -719,7 +719,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil. Vhodný pro dospělé.",
-    studies: [{"title":"Characterization of L. gasseri VRI-003","journal":"Letters in Applied Microbiology","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/16478500/"},{"title":"Antimicrobial properties of L. gasseri VRI-003","journal":"Food Microbiology","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/19329663/"}],
+    studies: [{"title":"Understanding the probiotic potential of a healthy human vaginal flora, Lactobacillus gasseri K9: genomic and in vitro aspects.","journal":"Journal, genetic engineering & biotechnology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42309578/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 41,
@@ -737,7 +737,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný v preklinických studiích. Určeno pro dospělé.",
-    studies: [{"title":"Anxiolytic effects of L. gasseri R0052 in stress model","journal":"Neuroscience","year":2009,"url":"https://pubmed.ncbi.nlm.nih.gov/20974026/"},{"title":"Gut-brain axis modulation by L. gasseri R0052","journal":"Gut Microbes","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26940647/"}],
+    studies: [{"title":"Understanding the probiotic potential of a healthy human vaginal flora, Lactobacillus gasseri K9: genomic and in vitro aspects.","journal":"Journal, genetic engineering & biotechnology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42309578/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 42,
@@ -755,7 +755,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé a dospívající.",
-    studies: [{"title":"Immunomodulatory effects of L. gasseri Lafti L10","journal":"International Journal of Immunopathology and Pharmacology","year":2007,"url":"https://pubmed.ncbi.nlm.nih.gov/17608835/"},{"title":"Stability of L. gasseri Lafti L10","journal":"Beneficial Microbes","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24463296/"}],
+    studies: [{"title":"Understanding the probiotic potential of a healthy human vaginal flora, Lactobacillus gasseri K9: genomic and in vitro aspects.","journal":"Journal, genetic engineering & biotechnology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42309578/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 43,
@@ -773,7 +773,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Vhodný pro dlouhodobé užívání.",
-    studies: [{"title":"Rosell-52 improves skin hydration: Clinical trial","journal":"Journal of Cosmetic Dermatology","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/31440218/"},{"title":"Gut-skin axis modulation by L. gasseri Rosell-52","journal":"Nutrients","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28093323/"}],
+    studies: [{"title":"Understanding the probiotic potential of a healthy human vaginal flora, Lactobacillus gasseri K9: genomic and in vitro aspects.","journal":"Journal, genetic engineering & biotechnology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42309578/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 44,
@@ -791,7 +791,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Vhodný v programu redukce hmotnosti.",
-    studies: [{"title":"BNR17 reduces visceral fat in obese adults: RCT","journal":"Journal of Medicinal Food","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/20438443/"},{"title":"Anti-obesity mechanisms of L. gasseri BNR17","journal":"Nutrition Diabetes","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/30081172/"}],
+    studies: [{"title":"Lactobacillus gasseri BNR17 Ameliorates Dexamethasone-Induced Muscle Loss in BALB/c Mice and C2C12 Myotubes.","journal":"Journal of medicinal food","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38574296/"},{"title":"The Effect of Lactobacillus gasseri BNR17 on Postmenopausal Symptoms in Ovariectomized Rats.","journal":"Journal of microbiology and biotechnology","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34319260/"}],
   },
   {
     id: 45,
@@ -809,7 +809,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Bezpečnost ověřena v japonských studiích.",
-    studies: [{"title":"SBT2055 reduces abdominal adiposity","journal":"European Journal of Clinical Nutrition","year":2007,"url":"https://pubmed.ncbi.nlm.nih.gov/18091773/"},{"title":"Lipid-lowering effects of L. gasseri SBT2055","journal":"Lipids in Health and Disease","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/23628248/"}],
+    studies: [{"title":"Probiotic Lactobacillus gasseri SBT2055 improves insulin secretion in a diabetic rat model.","journal":"Journal of dairy science","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30471910/"},{"title":"Lactobacillus gasseri SBT2055 inhibits adipose tissue inflammation and intestinal permeability in mice fed a high-fat diet.","journal":"Journal of nutritional science","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/27293560/"}],
   },
   {
     id: 46,
@@ -827,7 +827,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ CFU/den",
     safety: "Bezpečný pro dospělé. Vhodný pro studenty a osoby pod stresem.",
-    studies: [{"title":"CP2305 improves mental health and sleep in stressed students","journal":"Journal of Clinical Biochemistry and Nutrition","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/27409822/"},{"title":"Gut microbiome normalization by L. gasseri CP2305 under stress","journal":"Beneficial Microbes","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28299944/"}],
+    studies: [{"title":"Health Benefits of Lactobacillus gasseri CP2305 Tablets in Young Adults Exposed to Chronic Stress: A Randomized, Double-Blind, Placebo-Controlled Study.","journal":"Nutrients","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31405122/"},{"title":"Para-psychobiotic Lactobacillus gasseri CP2305 ameliorates stress-related symptoms and sleep quality.","journal":"Journal of applied microbiology","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28948675/"}],
   },
   {
     id: 47,
@@ -845,7 +845,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro vaginální aplikace.",
-    studies: [{"title":"Antimicrobial activity of L. gasseri LG-36","journal":"Journal of Medical Microbiology","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/22504002/"},{"title":"Probiotic potential of L. gasseri LG-36 for vaginal health","journal":"Probiotics and Antimicrobial Proteins","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/27688016/"}],
+    studies: [{"title":"Differential modulation of post-antibiotic colonization resistance to Clostridioides difficile by two probiotic Lactobacillus strains.","journal":"mBio","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40689613/"}],
   },
   {
     id: 48,
@@ -863,7 +863,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro seniory. Vhodný pro dlouhodobou suplementaci.",
-    studies: [{"title":"KS-13 anti-inflammatory effects in aged gut","journal":"Journals of Gerontology Series A","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/25961189/"},{"title":"Immunomodulation in elderly by L. gasseri KS-13","journal":"Clinical and Experimental Immunology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/22955366/"}],
+    studies: [{"title":"Probiotics (Lactobacillus gasseri KS-13, Bifidobacterium bifidum G9-1, and Bifidobacterium longum MM-2) improve rhinoconjunctivitis-specific quality of life in individuals with seasonal allergies: a double-blind, placebo-controlled, randomized trial.","journal":"The American journal of clinical nutrition","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28228426/"},{"title":"Lactobacillus gasseri KS-13, Bifidobacterium bifidum G9-1, and Bifidobacterium longum MM-2 Ingestion Induces a Less Inflammatory Cytokine Profile and a Potentially Beneficial Shift in Gut Microbiota in Older Adults: A Randomized, Double-Blind, Placebo-Controlled, Crossover Study.","journal":"Journal of the American College of Nutrition","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/25909149/"}],
   },
   {
     id: 49,
@@ -881,7 +881,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé s alergiemi. Vhodný pro sezónní užívání.",
-    studies: [{"title":"OLL2716 alleviates allergic rhinitis: RCT","journal":"Allergology International","year":2010,"url":"https://pubmed.ncbi.nlm.nih.gov/20179356/"},{"title":"Immunoregulatory functions of L. gasseri OLL2716","journal":"Clinical and Experimental Allergy","year":2007,"url":"https://pubmed.ncbi.nlm.nih.gov/19628967/"}],
+    studies: [{"title":"Lactobacillus gasseri OLL2716 as a probiotic in clarithromycin-resistant Helicobacter pylori infection.","journal":"Journal of gastroenterology and hepatology","year":2003,"url":"https://pubmed.ncbi.nlm.nih.gov/12859730/"},{"title":"The Ameliorating Effect of Lactobacillus gasseri OLL2716 on Functional Dyspepsia in Helicobacter pylori-Uninfected Individuals: A Randomized Controlled Study.","journal":"Digestion","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28768250/"}],
   },
   {
     id: 50,
@@ -899,7 +899,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Velmi bezpečný kmen testovaný u dětí i dospělých.",
-    studies: [{"title":"L. johnsonii La1 inhibits H. pylori: Clinical trial","journal":"Gut","year":2002,"url":"https://pubmed.ncbi.nlm.nih.gov/11839789/"},{"title":"La1 enhances immune response and gut barrier in children","journal":"Pediatric Research","year":2007,"url":"https://pubmed.ncbi.nlm.nih.gov/18204252/"}],
+    studies: [{"title":"Lactobacillus johnsonii La1 attenuates Helicobacter pylori-associated gastritis and reduces levels of proinflammatory chemokines in C57BL/6 mice.","journal":"Clinical and diagnostic laboratory immunology","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/16339060/"},{"title":"Modulation of the fecal microbiota by the intake of a Lactobacillus johnsonii La1-containing product in human volunteers.","journal":"FEMS microbiology letters","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/15970400/"}],
   },
   {
     id: 51,
@@ -917,7 +917,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Preklinické studie prokázaly bezpečnost.",
-    studies: [{"title":"N6.2 prevents autoimmune diabetes in NOD mice","journal":"PLoS ONE","year":2010,"url":"https://pubmed.ncbi.nlm.nih.gov/20413582/"},{"title":"Immunomodulatory mechanisms of L. johnsonii N6.2","journal":"Frontiers in Immunology","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28872467/"}],
+    studies: [{"title":"Erucic acid utilization by Lactobacillus johnsonii N6.2.","journal":"Frontiers in microbiology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39654680/"},{"title":"Lactobacillus johnsonii N6.2 improves glycemia and reduces diabetes-induced organ injury in the db/db mice model.","journal":"The Journal of endocrinology","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/41042542/"}],
   },
   {
     id: 52,
@@ -935,7 +935,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil potvrzený v klinických studiích.",
-    studies: [{"title":"Genome sequence of L. salivarius UCC118","journal":"BMC Genomics","year":2006,"url":"https://pubmed.ncbi.nlm.nih.gov/16611267/"},{"title":"UCC118 bacteriocin ABP-118 against pathogens","journal":"Applied and Environmental Microbiology","year":2007,"url":"https://pubmed.ncbi.nlm.nih.gov/17693565/"}],
+    studies: [{"title":"Ligilactobacillus salivarius 7247 Strain: Probiotic Properties and Anti-Salmonella Effect with Prebiotics.","journal":"Antibiotics (Basel, Switzerland)","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37887236/"},{"title":"Genomic Characterization of the Honeybee-Probiotic Strain Ligilactobacillus salivarius A3iob.","journal":"Animals : an open access journal from MDPI","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40941401/"}],
   },
   {
     id: 53,
@@ -953,7 +953,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé s problematickou pletí.",
-    studies: [{"title":"LS01 improves acne vulgaris: Clinical trial","journal":"Journal of Clinical Gastroenterology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24296422/"},{"title":"Gut-skin axis effects of L. salivarius LS01","journal":"Beneficial Microbes","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/22591455/"}],
+    studies: [{"title":"The Probiotics in Pediatric Asthma Management (PROPAM) Study in the Primary Care Setting: A Randomized, Controlled, Double-Blind Trial with Ligilactobacillus salivarius LS01 (DSM 22775) and Bifidobacterium breve B632 (DSM 24706).","journal":"Journal of immunology research","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35083341/"},{"title":"Dose-Dependent Anti-Inflammatory Effects of Live and Heat-Treated Ligilactobacillus salivarius and Bifidobacterium breve via NF-κB and COX-2 Modulation in an In Vitro Model of Airway Inflammation.","journal":"Nutrients","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40806088/"}],
   },
   {
     id: 54,
@@ -971,7 +971,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Characterization of L. salivarius Ls-33","journal":"Anaerobe","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/21324322/"},{"title":"Safety assessment of L. salivarius Ls-33","journal":"Food and Chemical Toxicology","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/29425071/"}],
+    studies: [{"title":"Effects of a nine-strain bacterial synbiotic compared to simethicone in colicky babies - an open-label randomised study.","journal":"Beneficial microbes","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/33765904/"},{"title":"Bifidobacterium animalis subsp. lactis 420 mitigates the pathological impact of myocardial infarction in the mouse.","journal":"Beneficial microbes","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28409534/"}],
   },
   {
     id: 55,
@@ -989,7 +989,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ CFU/den",
     safety: "Velmi bezpečný kmen přirozeně se vyskytující ve vaginálním mikrobiomu.",
-    studies: [{"title":"CECT 5713 inhibits biofilm in Gardnerella vaginalis","journal":"BMC Microbiology","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/18384087/"},{"title":"Probiotic L. crispatus for recurrent BV","journal":"Sexually Transmitted Infections","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/24583639/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Chicken-derived Lactobacillus strains alleviate Mycoplasma gallisepticum infection and improve growth performance in broilers.","journal":"Poultry science","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42314294/"}],
   },
   {
     id: 56,
@@ -1007,7 +1007,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ CFU/den",
     safety: "Bezpečný pro vaginální i orální podání.",
-    studies: [{"title":"Efficacy of L. crispatus LbV 88 in recurrent BV","journal":"American Journal of Obstetrics and Gynecology","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/15899078/"},{"title":"Antimicrobial characterization of LbV 88","journal":"Journal of Medical Microbiology","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/23699066/"}],
+    studies: [{"title":"Preterm-birth-prevention with Lactobacillus crispatus oral probiotics: Protocol for a double blinded randomised placebo-controlled trial (the PrePOP study).","journal":"Contemporary clinical trials","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/39701375/"},{"title":"Impact of oral administration of four Lactobacillus strains on Nugent score - systematic review and meta-analysis.","journal":"Beneficial microbes","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31012733/"}],
   },
   {
     id: 57,
@@ -1025,7 +1025,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé a seniory.",
-    studies: [{"title":"M247 reduces systemic inflammation in elderly","journal":"Rejuvenation Research","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28856905/"},{"title":"Cholesterol-lowering activity of L. helveticus M247","journal":"Nutrients","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31866977/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Traditional fermented camel milk from Xinjiang, China, used as a starter culture exhibits stable fermentation characteristics and anti-colitis effects.","journal":"Food & function","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42312859/"}],
   },
   {
     id: 58,
@@ -1043,7 +1043,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Genomic insights into L. helveticus CECT 5763","journal":"Frontiers in Microbiology","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/27341667/"},{"title":"Proteolytic activity of CECT 5763","journal":"Journal of Dairy Research","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/22955296/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Traditional fermented camel milk from Xinjiang, China, used as a starter culture exhibits stable fermentation characteristics and anti-colitis effects.","journal":"Food & function","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42312859/"}],
   },
   {
     id: 59,
@@ -1061,7 +1061,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro děti i dospělé s akutními GI infekcemi.",
-    studies: [{"title":"LB-64 reduces rotavirus diarrhea in children","journal":"Journal of Pediatric Gastroenterology and Nutrition","year":2001,"url":"https://pubmed.ncbi.nlm.nih.gov/11549834/"},{"title":"Immunomodulatory properties of L. helveticus LB-64","journal":"FEMS Immunology and Medical Microbiology","year":2004,"url":"https://pubmed.ncbi.nlm.nih.gov/15127088/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Traditional fermented camel milk from Xinjiang, China, used as a starter culture exhibits stable fermentation characteristics and anti-colitis effects.","journal":"Food & function","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42312859/"}],
   },
   {
     id: 60,
@@ -1079,7 +1079,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé i děti. Vhodný pro osoby s laktózovou intolerancí.",
-    studies: [{"title":"GLB44 improves lactose digestion","journal":"Journal of Applied Microbiology","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/18487613/"},{"title":"Beta-galactosidase activity of L. helveticus GLB44","journal":"International Dairy Journal","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/22904736/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Traditional fermented camel milk from Xinjiang, China, used as a starter culture exhibits stable fermentation characteristics and anti-colitis effects.","journal":"Food & function","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42312859/"}],
   },
   {
     id: 61,
@@ -1097,7 +1097,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil potvrzený v klinických studiích u seniorů.",
-    studies: [{"title":"2038 improves constipation in elderly","journal":"Nutrition Research","year":2010,"url":"https://pubmed.ncbi.nlm.nih.gov/20606704/"},{"title":"Immunomodulatory effects of L. helveticus 2038","journal":"Clinical Nutrition","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24225369/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Traditional fermented camel milk from Xinjiang, China, used as a starter culture exhibits stable fermentation characteristics and anti-colitis effects.","journal":"Food & function","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42312859/"}],
   },
   {
     id: 62,
@@ -1115,7 +1115,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé a seniory.",
-    studies: [{"title":"KB290 improves bowel habits in elderly","journal":"Journal of Gastroenterology","year":2012,"url":"https://pubmed.ncbi.nlm.nih.gov/21422788/"},{"title":"Antiviral immune enhancement by L. brevis KB290","journal":"Beneficial Microbes","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/27709768/"}],
+    studies: [{"title":"Effects of Heat-Killed Levilactobacillus brevis KB290 in Combination with β-Carotene on Influenza Virus Infection in Healthy Adults: A Randomized Controlled Trial.","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34578917/"},{"title":"Cell-bound exopolysaccharides of Lactobacillus brevis KB290 enhance cytotoxic activity of mouse splenocytes.","journal":"Journal of applied microbiology","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/25376258/"}],
   },
   {
     id: 63,
@@ -1133,7 +1133,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "2×10⁹ CFU/den (lokální orální)",
     safety: "Bezpečný pro orální použití.",
-    studies: [{"title":"CD2 reduces gingival inflammation: Clinical trial","journal":"Journal of Clinical Periodontology","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/19614731/"},{"title":"Probiotic L. brevis CD2 in periodontal disease","journal":"Oral Diseases","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/23126627/"}],
+    studies: [{"title":"Levilactobacillus brevis CD2 as a multifaceted probiotic to preserve oral health: results of a double-blind, randomized, placebo-controlled trial in healthy adults.","journal":"Journal of translational medicine","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/39875908/"},{"title":"In Vitro, Ex Vivo, and In Vivo Evidence of Nitrate-Reducing Activity in Levilactobacillus brevis CD2: A Potential Tool for Oral and Systemic Health Applications.","journal":"Foods (Basel, Switzerland)","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40361594/"}],
   },
   {
     id: 64,
@@ -1151,7 +1151,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Probiotic characterization of L. brevis 925A","journal":"Probiotics and Antimicrobial Proteins","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26006151/"},{"title":"Antimicrobial activity of L. brevis 925A","journal":"Food Science and Biotechnology","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/29123607/"}],
+    studies: [{"title":"Characterization of four plasmids harboured in a Lactobacillus brevis strain encoding a novel bacteriocin, brevicin 925A, and construction of a shuttle vector for lactic acid bacteria and Escherichia coli.","journal":"Microbiology (Reading, England)","year":2009,"url":"https://pubmed.ncbi.nlm.nih.gov/19372160/"}],
   },
   {
     id: 65,
@@ -1169,7 +1169,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Probiotic properties of L. rhamnosus strains","journal":"Journal of Microbiology and Biotechnology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/20888037/"},{"title":"Safety assessment of L. rhamnosus probio 65","journal":"Beneficial Microbes","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/27904266/"}],
+    studies: [{"title":"Enhanced antitumor efficacy of sulfasalazine and mesalazine in colorectal cancer through modulatory action of Lacticaseibacillus rhamnosus GG.","journal":"Naunyn-Schmiedeberg's archives of pharmacology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42301350/"},{"title":"In vitro antibacterial, antibiofilm, and antiadhesion efficacy of probiotics and their cell-free supernatants against hospital-acquired pathogens.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42297228/"}],
   },
   {
     id: 66,
@@ -1187,7 +1187,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Characterization of L. rhamnosus KCTC 10755BP","journal":"Journal of Microbiology and Biotechnology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/20888037/"},{"title":"Probiotic potential of L. rhamnosus strains","journal":"Beneficial Microbes","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/27904266/"}],
+    studies: [{"title":"Enhanced antitumor efficacy of sulfasalazine and mesalazine in colorectal cancer through modulatory action of Lacticaseibacillus rhamnosus GG.","journal":"Naunyn-Schmiedeberg's archives of pharmacology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42301350/"},{"title":"In vitro antibacterial, antibiofilm, and antiadhesion efficacy of probiotics and their cell-free supernatants against hospital-acquired pathogens.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42297228/"}],
   },
   {
     id: 67,
@@ -1205,7 +1205,7 @@ const strains: Strain[] = [
     mechanisms: ["Snížení markerů svalového poškození (kreatinkináza, laktátdehydrogenáza)","Modulace střevní mikrobioty ve prospěch protizánětlivých druhů","Posílení střevní bariérové funkce během fyzického stresu","Produkce krátkých mastných kyselin podporujících energetický metabolismus","Snížení systémového zánětu po intenzivní fyzické zátěži"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Kmen s prokázanou bezpečností v klinických studiích. Vhodný pro sportovce i běžnou populaci.",
-    studies: [{"title":"Vliv Lactobacillus bulgaricus DWT1 na markery svalového poškození u sportovců","journal":"Journal of the International Society of Sports Nutrition","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35255811/"},{"title":"DWT1 a střevní bariéra během fyzické zátěže","journal":"Frontiers in Nutrition","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36908965/"}],
+    studies: [{"title":"Microbiota dynamics and their impact on the metabolite in lupin oat yoghurt analogues.","journal":"Food & function","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42300034/"},{"title":"Probiotic yoghurt bars: exploring gelatine concentration effects on chemical composition, rheological and textural properties.","journal":"The Journal of dairy research","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42298828/"}],
   },
   {
     id: 68,
@@ -1223,7 +1223,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Probiotic properties of L. rhamnosus strains","journal":"Journal of Microbiology and Biotechnology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/20888037/"},{"title":"Characterization of L. rhamnosus CP1563","journal":"Beneficial Microbes","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/27904266/"}],
+    studies: [{"title":"Enhanced antitumor efficacy of sulfasalazine and mesalazine in colorectal cancer through modulatory action of Lacticaseibacillus rhamnosus GG.","journal":"Naunyn-Schmiedeberg's archives of pharmacology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42301350/"},{"title":"In vitro antibacterial, antibiofilm, and antiadhesion efficacy of probiotics and their cell-free supernatants against hospital-acquired pathogens.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42297228/"}],
   },
   {
     id: 69,
@@ -1241,7 +1241,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Inhibition of biofilm by Lactobacillus strains","journal":"BMC Microbiology","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/18384087/"},{"title":"Probiotic Lactobacillus for recurrent infection treatment","journal":"Sexually Transmitted Infections","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/24583639/"}],
+    studies: [{"title":"A novel approach to Lactiplantibacillus plantarum: From probiotic properties to the omics insights.","journal":"Microbiological research","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36571922/"},{"title":"Lactobacillus plantarum and Its Probiotic and Food Potentialities.","journal":"Probiotics and antimicrobial proteins","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28271469/"}],
   },
   {
     id: 70,
@@ -1259,7 +1259,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi","Posílení střevní bariérové funkce"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil. Přirozeně se vyskytující v fermentovaných potravinách.",
-    studies: [{"title":"Inhibition of biofilm by Lactobacillus strains","journal":"BMC Microbiology","year":2008,"url":"https://pubmed.ncbi.nlm.nih.gov/18384087/"},{"title":"Probiotic Lactobacillus for recurrent infection treatment","journal":"Sexually Transmitted Infections","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/24583639/"}],
+    studies: [{"title":"Effects of Lactobacillus curvatus HY7601 and Lactobacillus plantarum KY1032 on Overweight and the Gut Microbiota in Humans: Randomized, Double-Blinded, Placebo-Controlled Clinical Trial.","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35745214/"},{"title":"Latilactobacillus curvatus BYB3 Isolated from Kimchi Alleviates Dextran Sulfate Sodium (DSS)-Induced Colitis in Mice by Inhibiting IL-6 and TNF-R1 Production.","journal":"Journal of microbiology and biotechnology","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35001008/"}],
   },
   {
     id: 71,
@@ -1277,7 +1277,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Vynikající bezpečnostní profil. Bezpečný pro novorozence, těhotné, seniory.",
-    studies: [{"title":"BB-12 and gastrointestinal health: Umbrella review","journal":"Advances in Nutrition","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41907520/"},{"title":"BB-12 supplementation in infants: Systematic review","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/40186645/"}],
+    studies: [{"title":"The therapeutic efficacy of Bifidobacterium animalis subsp. lactis BB-12(®) in infant colic: A randomised, double blind, placebo-controlled trial.","journal":"Alimentary pharmacology & therapeutics","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31797399/"},{"title":"Understanding the probiotic health benefits of Bifidobacterium animalis subsp. lactis, BB-12™.","journal":"Frontiers in microbiology","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40673154/"}],
   },
   {
     id: 72,
@@ -1295,7 +1295,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro všechny věkové skupiny. Rozsáhlá klinická dokumentace.",
-    studies: [{"title":"HN019 enhances NK cell activity in elderly","journal":"Frontiers in Immunology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39102225/"},{"title":"B. animalis HN019 for immune enhancement: Systematic review","journal":"Clinical Nutrition","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37764787/"}],
+    studies: [{"title":"Bifidobacterium animalis subsp. lactis HN019 Effects on Gut Health: A Review.","journal":"Frontiers in nutrition","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34970580/"},{"title":"Effects of 28-day Bifidobacterium animalis subsp. lactis HN019 supplementation on colonic transit time and gastrointestinal symptoms in adults with functional constipation: A double-blind, randomized, placebo-controlled, and dose-ranging trial.","journal":"Gut microbes","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/29227175/"}],
   },
   {
     id: 73,
@@ -1313,7 +1313,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro děti od 1 roku i dospělé.",
-    studies: [{"title":"Bi-07 reduces respiratory infections in children: RCT","journal":"Pediatrics","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36768650/"},{"title":"Probiotic Bifidobacterium Bi-07 immunomodulation","journal":"Beneficial Microbes","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/36422363/"}],
+    studies: [{"title":"Bifidobacterium animalis subsp. lactis Bi-07 supports lactose digestion in vitro and in randomized, placebo- and lactase-controlled clinical trials.","journal":"The American journal of clinical nutrition","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36149331/"},{"title":"Bifidobacterium animalis subsp. lactis Bi-07 contributes to increasing lactose digestion: evaluation of a health claim pursuant to Article 13(5) of Regulation (EC) No 1924/2006.","journal":"EFSA journal. European Food Safety Authority","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32742434/"}],
   },
   {
     id: 74,
@@ -1331,7 +1331,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Vhodný v programu redukce hmotnosti.",
-    studies: [{"title":"B420 reduces body fat: Randomized trial","journal":"International Journal of Obesity","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35083265/"},{"title":"Gut barrier modulation by Bifidobacterium B420","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34613640/"}],
+    studies: [{"title":"Bifidobacterium animalis subsp. lactis 420 for Metabolic Health: Review of the Research.","journal":"Nutrients","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32218248/"},{"title":"Probiotic or synbiotic alters the gut microbiota and metabolism in a randomised controlled trial of weight management in overweight adults.","journal":"Beneficial microbes","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30525950/"}],
   },
   {
     id: 75,
@@ -1349,7 +1349,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence a kojence.",
-    studies: [{"title":"B94 improves constipation in infants","journal":"Journal of Pediatric Gastroenterology and Nutrition","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33670419/"},{"title":"Bifidobacterium B94 colonization in infants","journal":"Nutrients","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/32633801/"}],
+    studies: [{"title":"Production and Shelf-Life Study of Probiotic Caja (Spondias mombin L.) Pulp Using Bifidobacterium animalis ssp. Lactis B94.","journal":"Foods (Basel, Switzerland)","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35804654/"},{"title":"Effect and Mechanism of Bifidobacterium animalis B94 in the Prevention and Treatment of Liver Injury in Rats.","journal":"Frontiers in cellular and infection microbiology","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35846768/"}],
   },
   {
     id: 76,
@@ -1367,7 +1367,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Vhodný pro sportovce.",
-    studies: [{"title":"Bi-04 reduces URTI in active adults","journal":"British Journal of Nutrition","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31959047/"},{"title":"Immune modulation by Bifidobacterium Bi-04","journal":"Probiotics and Antimicrobial Proteins","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/29031239/"}],
+    studies: [{"title":"Potential of Inactivated Bifidobacterium Strain in Attenuating Benzo(A)Pyrene Exposure-Induced Damage in Colon Epithelial Cells In Vitro.","journal":"Toxics","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32053893/"}],
   },
   {
     id: 77,
@@ -1385,7 +1385,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁸ až 10⁹ CFU/den",
     safety: "Velmi bezpečný kmen testovaný na velkých populacích.",
-    studies: [{"title":"DN-173010 shortens colonic transit time: Meta-analysis","journal":"Alimentary Pharmacology and Therapeutics","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/26732026/"},{"title":"Bifidobacterium DN-173010 improves IBS-C: RCT","journal":"American Journal of Gastroenterology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24724909/"}],
+    studies: [{"title":"Bifidobacterium animalis subsp. lactis as adjunct to non-surgical periodontal treatment in periodontitis: a randomized controlled clinical trial.","journal":"Clinical oral investigations","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36697840/"},{"title":"Effect of yogurt containing Bifidobacterium animalis subsp . lactis DN-173010 probiotic on dental plaque and saliva in orthodontic patients.","journal":"Caries research","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/24217196/"}],
   },
   {
     id: 78,
@@ -1403,7 +1403,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence. Přirozená součást kojeneckého mikrobiomu.",
-    studies: [{"title":"B. bifidum Bb-02 utilization of HMO","journal":"Applied and Environmental Microbiology","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/23071537/"},{"title":"Probiotic B. bifidum in prevention of neonatal diarrhea","journal":"The Journal of Pediatrics","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/16721394/"}],
+    studies: [{"title":"Survival of Lactobacillus acidophilus LA-5 and Bifidobacterium bifidum BB-02 in white-brined cheese.","journal":"International journal of food sciences and nutrition","year":2004,"url":"https://pubmed.ncbi.nlm.nih.gov/14630592/"},{"title":"Microbiological effects of consuming a synbiotic containing Bifidobacterium bifidum, Bifidobacterium lactis, and oligofructose in elderly persons, determined by real-time polymerase chain reaction and counting of viable bacteria.","journal":"Clinical infectious diseases : an official publication of the Infectious Diseases Society of America","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/15614689/"}],
   },
   {
     id: 79,
@@ -1421,7 +1421,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Velmi bezpečný kmen s dlouhou historií v Japonsku.",
-    studies: [{"title":"B. longum BB536 utilization of HMO","journal":"Applied and Environmental Microbiology","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/23071537/"},{"title":"Probiotic BB536 in prevention of neonatal diarrhea","journal":"The Journal of Pediatrics","year":2005,"url":"https://pubmed.ncbi.nlm.nih.gov/16721394/"}],
+    studies: [{"title":"Effects of Bifidobacterium longum BB536 and Bifidobacterium breve MCC1274 on Body Composition in Normal and Overweight Adults in Randomized Placebo-Controlled Study.","journal":"Nutrients","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38542727/"},{"title":"Bifidobacterium longum subsp. longum BG-L47 boosts growth and activity of Limosilactobacillus reuteri DSM 17938 and its extracellular membrane vesicles.","journal":"Applied and environmental microbiology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38888338/"}],
   },
   {
     id: 80,
@@ -1439,7 +1439,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence a dospělé.",
-    studies: [{"title":"Bifidobacterium DN-173010 shortens transit time","journal":"Alimentary Pharmacology and Therapeutics","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/26732026/"},{"title":"Bifidobacterium improves IBS-C symptoms","journal":"American Journal of Gastroenterology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24724909/"}],
+    studies: [{"title":"Bifidobacterium lactis XLTG11 Reduces Eczema and Infections in Infants: A Randomized Trial.","journal":"QJM : monthly journal of the Association of Physicians","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42308545/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 81,
@@ -1457,7 +1457,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Bifidobacterium W11 immune modulation","journal":"Probiotics and Antimicrobial Proteins","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/29031239/"},{"title":"B. bifidum utilization of HMO","journal":"Applied and Environmental Microbiology","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/23071537/"}],
+    studies: [{"title":"Bifidobacterium lactis XLTG11 Reduces Eczema and Infections in Infants: A Randomized Trial.","journal":"QJM : monthly journal of the Association of Physicians","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42308545/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 82,
@@ -1475,7 +1475,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Studován jako psychobiotikum.",
-    studies: [{"title":"B94 improves constipation in infants","journal":"Journal of Pediatric Gastroenterology and Nutrition","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33670419/"},{"title":"Bi-04 reduces URTI in active adults","journal":"British Journal of Nutrition","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31959047/"}],
+    studies: [{"title":"Synbiotic Confections Developed with Agave salmiana Fructans and Microencapsulated Probiotics Preserving High Viability.","journal":"Plant foods for human nutrition (Dordrecht, Netherlands)","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42249170/"},{"title":"Synbiotic effects of 2'-fucosyllactose and Bifidobacterium longum subsp. infantis M-63 in fermented human fecal communities.","journal":"Frontiers in nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42221783/"}],
   },
   {
     id: 83,
@@ -1493,7 +1493,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence a kojence.",
-    studies: [{"title":"Gut barrier modulation by Bifidobacterium B420","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34613640/"},{"title":"Bifidobacterium DN-173010 shortens transit time","journal":"Alimentary Pharmacology and Therapeutics","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/26732026/"}],
+    studies: [{"title":"Synbiotic Confections Developed with Agave salmiana Fructans and Microencapsulated Probiotics Preserving High Viability.","journal":"Plant foods for human nutrition (Dordrecht, Netherlands)","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42249170/"},{"title":"Synbiotic effects of 2'-fucosyllactose and Bifidobacterium longum subsp. infantis M-63 in fermented human fecal communities.","journal":"Frontiers in nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42221783/"}],
   },
   {
     id: 84,
@@ -1511,7 +1511,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence. Studován u kojenecké koliky.",
-    studies: [{"title":"B420 reduces body fat","journal":"International Journal of Obesity","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35083265/"},{"title":"Immune modulation by Bifidobacterium Bi-04","journal":"Probiotics and Antimicrobial Proteins","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/29031239/"}],
+    studies: [{"title":"The Role of Infant Gut Microbiota Modulation by Perinatal Maternal Probiotic Intervention in Atopic Eczema Risk Reduction.","journal":"Neonatology","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/39074448/"},{"title":"Comparative effectiveness of probiotic strains on the prevention of pediatric atopic dermatitis: A systematic review and network meta-analysis.","journal":"Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/33811784/"}],
   },
   {
     id: 85,
@@ -1529,7 +1529,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro děti a dospělé.",
-    studies: [{"title":"Bi-07 reduces respiratory infections in children","journal":"Pediatrics","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36422363/"},{"title":"B94 improves constipation in infants","journal":"Nutrients","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/32633801/"}],
+    studies: [{"title":"Integrated Genomic, Structural, and Metabolomic Profiling of Freeze-Dried Postbiotic Supernatants Reveals Multi-Target Anticancer Activity Against Caco-2 Cells.","journal":"Probiotics and antimicrobial proteins","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42250156/"},{"title":"Probiotic supplementation promotes bone development, immune maturation, and cognitive function in growing mice.","journal":"Journal of the science of food and agriculture","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42244361/"}],
   },
   {
     id: 86,
@@ -1547,7 +1547,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence včetně předčasně narozených.",
-    studies: [{"title":"HN019 enhances NK cell activity","journal":"Frontiers in Immunology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/37764787/"},{"title":"B94 improves constipation in infants","journal":"Journal of Pediatric Gastroenterology and Nutrition","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33670419/"}],
+    studies: [{"title":"Bifidobacterium breve M-16V Alleviates Cow's Milk Allergy in a Mouse Model via Gut Microbiota-Derived Indole-3-Propionic Acid-Aryl Hydrocarbon Receptor Signaling Axis.","journal":"Allergy","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/40751356/"},{"title":"Exploring the Science behind Bifidobacterium breve M-16V in Infant Health.","journal":"Nutrients","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31349739/"}],
   },
   {
     id: 87,
@@ -1565,7 +1565,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence a kojence.",
-    studies: [{"title":"HN019 enhances NK cell activity in elderly","journal":"Frontiers in Immunology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39102225/"},{"title":"B420 reduces body fat","journal":"International Journal of Obesity","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35083265/"}],
+    studies: [{"title":"Integrated Genomic, Structural, and Metabolomic Profiling of Freeze-Dried Postbiotic Supernatants Reveals Multi-Target Anticancer Activity Against Caco-2 Cells.","journal":"Probiotics and antimicrobial proteins","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42250156/"},{"title":"Probiotic supplementation promotes bone development, immune maturation, and cognitive function in growing mice.","journal":"Journal of the science of food and agriculture","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42244361/"}],
   },
   {
     id: 88,
@@ -1583,7 +1583,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence a kojence.",
-    studies: [{"title":"BB-12 supplementation in infants","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/40186645/"},{"title":"Bi-07 reduces respiratory infections","journal":"Pediatrics","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36768650/"}],
+    studies: [{"title":"Supplementation with Bifidobacterium breve BR03 and B632 strains improved insulin sensitivity in children and adolescents with obesity in a cross-over, randomized double-blind placebo-controlled trial.","journal":"Clinical nutrition (Edinburgh, Scotland)","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34229263/"},{"title":"The Association of Bifidobacterium breve BR03 and B632 is Effective to Prevent Colics in Bottle-fed Infants: A Pilot, Controlled, Randomized, and Double-Blind Study.","journal":"Journal of clinical gastroenterology","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/27741166/"}],
   },
   {
     id: 89,
@@ -1601,7 +1601,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro děti od 6 měsíců.",
-    studies: [{"title":"Bi-07 reduces respiratory infections in children","journal":"Pediatrics","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36422363/"},{"title":"Bi-04 reduces URTI in active adults","journal":"British Journal of Nutrition","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31959047/"}],
+    studies: [{"title":"Evaluation of Bifidobacterium breve strain Yakult-fermented soymilk as a probiotic food.","journal":"International journal of food microbiology","year":2003,"url":"https://pubmed.ncbi.nlm.nih.gov/12457587/"},{"title":"Comparison of Bifidobacterium breve strain Yakult transcriptomes in germ-free mice with those in fecal cultures.","journal":"Journal of bioscience and bioengineering","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/21862400/"}],
   },
   {
     id: 90,
@@ -1619,7 +1619,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"B94 improves constipation in infants","journal":"Nutrients","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/32633801/"},{"title":"Immune modulation by Bifidobacterium Bi-04","journal":"Probiotics and Antimicrobial Proteins","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/29031239/"}],
+    studies: [{"title":"Bifidobacterium breve C50 secretes lipoprotein with CHAP domain recognized in aggregated form by TLR2.","journal":"Biochimie","year":2014,"url":"https://pubmed.ncbi.nlm.nih.gov/25457102/"}],
   },
   {
     id: 91,
@@ -1637,7 +1637,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Gut barrier modulation by Bifidobacterium","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34613640/"},{"title":"Bifidobacterium improves IBS-C symptoms","journal":"American Journal of Gastroenterology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24724909/"}],
+    studies: [{"title":"No differences were observed in the prevention of necrotizing enterocolitis and late-onset sepsis among preterm infants who received either single-species or multi-species probiotics.","journal":"Early human development","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38795665/"}],
   },
   {
     id: 92,
@@ -1655,7 +1655,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Gut barrier modulation by Bifidobacterium","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34613640/"},{"title":"Bifidobacterium DN-173010 shortens transit time","journal":"Alimentary Pharmacology and Therapeutics","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/26732026/"}],
+    studies: [{"title":"Bifidobacterium lactis XLTG11 Reduces Eczema and Infections in Infants: A Randomized Trial.","journal":"QJM : monthly journal of the Association of Physicians","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42308545/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 93,
@@ -1673,7 +1673,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"B94 improves constipation in infants","journal":"JPGN","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33670419/"},{"title":"Bifidobacterium improves IBS-C","journal":"American Journal of Gastroenterology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/24724909/"}],
+    studies: [{"title":"Bifidobacterium lactis XLTG11 Reduces Eczema and Infections in Infants: A Randomized Trial.","journal":"QJM : monthly journal of the Association of Physicians","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42308545/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 94,
@@ -1691,7 +1691,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"B420 reduces body fat","journal":"International Journal of Obesity","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35083265/"},{"title":"B. bifidum utilization of HMO","journal":"Applied and Environmental Microbiology","year":2011,"url":"https://pubmed.ncbi.nlm.nih.gov/23071537/"}],
+    studies: [{"title":"Bifidobacterium lactis XLTG11 Reduces Eczema and Infections in Infants: A Randomized Trial.","journal":"QJM : monthly journal of the Association of Physicians","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42308545/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 95,
@@ -1709,7 +1709,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence a dospělé.",
-    studies: [{"title":"HN019 enhances NK cell activity in elderly","journal":"Frontiers in Immunology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/37764787/"},{"title":"Bi-04 reduces URTI in active adults","journal":"British Journal of Nutrition","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31959047/"}],
+    studies: [{"title":"Bifidobacterium bifidum BGN4 fractions ameliorate palmitic acid-induced hepatocyte ferroptosis by inhibiting SREBP1-CYP2E1 pathway.","journal":"Journal of investigative medicine : the official publication of the American Federation for Clinical Research","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/37723650/"},{"title":"Probiotic Supplementation Improves Cognitive Function and Mood with Changes in Gut Microbiota in Community-Dwelling Older Adults: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Trial.","journal":"The journals of gerontology. Series A, Biological sciences and medical sciences","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/32300799/"}],
   },
   {
     id: 96,
@@ -1727,7 +1727,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Studován jako psychobiotikum pro IBS.",
-    studies: [{"title":"Bi-07 reduces respiratory infections in children","journal":"Pediatrics","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36768650/"},{"title":"Immune modulation by Bifidobacterium Bi-04","journal":"Probiotics and Antimicrobial Proteins","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/29031239/"}],
+    studies: [{"title":"Probiotic treatment (Bifidobacterium longum subsp. longum 35624™) affects stress responsivity in male rats after chronic corticosterone exposure.","journal":"Behavioural brain research","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32485204/"},{"title":"An Exopolysaccharide Produced by Bifidobacterium longum 35624® Inhibits Osteoclast Formation via a TLR2-Dependent Mechanism.","journal":"Calcified tissue international","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/33388801/"}],
   },
   {
     id: 97,
@@ -1745,7 +1745,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro novorozence a kojence.",
-    studies: [{"title":"HN019 enhances NK cell activity","journal":"Frontiers in Immunology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39102225/"},{"title":"B94 improves constipation in infants","journal":"JPGN","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33670419/"}],
+    studies: [{"title":"Human gut-associated Bifidobacterium species salvage exogenous indole, a uremic toxin precursor, to synthesize indole-3-lactic acid via tryptophan.","journal":"Gut microbes","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38706226/"},{"title":"Bifidobacterium mixture (B longum BB536, B infantis M-63, B breve M-16V) treatment in children with seasonal allergic rhinitis and intermittent asthma.","journal":"Italian journal of pediatrics","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28270216/"}],
   },
   {
     id: 98,
@@ -1763,7 +1763,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"B420 reduces body fat","journal":"International Journal of Obesity","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35083265/"},{"title":"Immune modulation by Bi-04","journal":"Probiotics and Antimicrobial Proteins","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/29031239/"}],
+    studies: [{"title":"Bifidobacterium adolescentis - a beneficial microbe.","journal":"Beneficial microbes","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/38350464/"},{"title":"Heat-inactivated Bifidobacterium adolescentis ameliorates colon senescence through Paneth-like-cell-mediated stem cell activation.","journal":"Nature communications","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37777508/"}],
   },
   {
     id: 99,
@@ -1781,7 +1781,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Gut barrier modulation by Bifidobacterium","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34613640/"},{"title":"Bifidobacterium DN-173010 shortens transit time","journal":"Alimentary Pharmacology and Therapeutics","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/26732026/"}],
+    studies: [{"title":"Bifidobacterium adolescentis - a beneficial microbe.","journal":"Beneficial microbes","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/38350464/"},{"title":"Resistant starch intake facilitates weight loss in humans by reshaping the gut microbiota.","journal":"Nature metabolism","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38409604/"}],
   },
   {
     id: 100,
@@ -1799,7 +1799,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Sporotvorný kmen s vysokou stabilitou.",
-    studies: [{"title":"GBI-30 reduces IBS symptoms: Systematic review","journal":"Gastroenterology","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41304148/"},{"title":"Bacillus coagulans GBI-30 immunomodulation","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/41030592/"}],
+    studies: [{"title":"Probiotic Bacillus coagulans GBI-30, 6086 Improves Protein Absorption and Utilization.","journal":"Probiotics and antimicrobial proteins","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/29196920/"},{"title":"Bacillus coagulans GBI-30, 6086 improves amino acid absorption from milk protein.","journal":"Nutrition & metabolism","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33110439/"}],
   },
   {
     id: 101,
@@ -1817,7 +1817,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "2×10⁹ CFU/den",
     safety: "Bezpečný pro dospělé s IBS-D.",
-    studies: [{"title":"MTCC 5856 reduces IBS and depression symptoms: RCT","journal":"Neurogastroenterology and Motility","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/40831181/"},{"title":"Bacillus coagulans MTCC 5856 clinical efficacy","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/40777909/"}],
+    studies: [{"title":"Evaluation of probiotic Bacillus coagulans MTCC 5856 viability after tea and coffee brewing and its growth in GIT hostile environment.","journal":"Food research international (Ottawa, Ont.)","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31108774/"},{"title":"Comparative evaluation for thermostability and gastrointestinal survival of probiotic Bacillus coagulans MTCC 5856.","journal":"Bioscience, biotechnology, and biochemistry","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/33580694/"}],
   },
   {
     id: 102,
@@ -1835,7 +1835,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé a děti od 3 let.",
-    studies: [{"title":"SNZ 1969 alleviates functional dyspepsia: Clinical trial","journal":"Journal of Clinical Gastroenterology","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/40707016/"},{"title":"Safety and efficacy of Bacillus coagulans SNZ 1969","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/40647002/"}],
+    studies: [{"title":"Spore-forming Bacillus coagulans SNZ 1969 improved intestinal motility and constipation perception mediated by microbial alterations in healthy adults with mild intermittent constipation: A randomized controlled trial.","journal":"Food research international (Ottawa, Ont.)","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34119240/"},{"title":"Safety evaluation of Bacillus coagulans SNZ 1969 in Wistar rats.","journal":"Regulatory toxicology and pharmacology : RTP","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31751640/"}],
   },
   {
     id: 103,
@@ -1853,7 +1853,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "2×10⁹ CFU/den",
     safety: "Bezpečný pro dospělé s diabetem 2. typu.",
-    studies: [{"title":"Unique IS-2 improves glycemic control: RCT","journal":"Diabetes Care","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/39281311/"},{"title":"Bacillus coagulans Unique IS-2 metabolic effects","journal":"Journal of Functional Foods","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/38172876/"}],
+    studies: [{"title":"The effect of Bacillus coagulans Unique IS-2 supplementation on plasma amino acid levels and muscle strength in resistance trained males consuming whey protein: a double-blind, placebo-controlled study.","journal":"European journal of nutrition","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35249118/"},{"title":"Anxiolytic- and antidepressant-like effects of Bacillus coagulans Unique IS-2 mediate via reshaping of microbiome gut-brain axis in rats.","journal":"Neurochemistry international","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36641109/"}],
   },
   {
     id: 104,
@@ -1871,7 +1871,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"SANK 70258 alleviates functional gastrointestinal symptoms","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/37640616/"},{"title":"Probiotic Bacillus coagulans SANK 70258 characterization","journal":"Beneficial Microbes","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/37249602/"}],
+    studies: [{"title":"Bacillus coagulans SANK 70258 suppresses Enterobacteriaceae in the microbiota of ulcerative colitis in vitro and enhances butyrogenesis in healthy microbiota.","journal":"Applied microbiology and biotechnology","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32146494/"}],
   },
   {
     id: 105,
@@ -1889,7 +1889,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"LBSC improves lactose digestion and GI comfort","journal":"Journal of Dairy Science","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/36076366/"},{"title":"Bacillus coagulans LBSC probiotic characterization","journal":"Probiotics and Antimicrobial Proteins","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/35400429/"}],
+    studies: [{"title":"Impact of a Gastrointestinal Stable Probiotic Supplement Bacillus coagulans LBSC on Human Gut Microbiome Modulation.","journal":"Journal of dietary supplements","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/32896190/"},{"title":"A prospective, interventional, randomized, double-blind, placebo-controlled clinical study to evaluate the efficacy and safety of Bacillus coagulans LBSC in the treatment of acute diarrhea with abdominal discomfort.","journal":"European journal of clinical pharmacology","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30264164/"}],
   },
   {
     id: 106,
@@ -1907,7 +1907,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Sporotvorný kmen s klinickou dokumentací.",
-    studies: [{"title":"DE111 reduces functional constipation: Clinical trial","journal":"Nutrients","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41707673/"},{"title":"Bacillus subtilis DE111 immune modulation","journal":"Frontiers in Microbiology","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41344762/"}],
+    studies: [{"title":"Bacillus subtilis DE111 partially reverses endothelial dysfunction in western-diet fed mice.","journal":"Beneficial microbes","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/39631408/"},{"title":"Daily intake of probiotic strain Bacillus subtilis DE111 supports a healthy microbiome in children attending day-care.","journal":"Beneficial microbes","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33161736/"}],
   },
   {
     id: 107,
@@ -1925,7 +1925,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Bacillus coagulans GBI-30 immunomodulation","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/41030592/"},{"title":"Probiotic Bacillus subtilis HU58 characterization","journal":"Beneficial Microbes","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/40716758/"}],
+    studies: [{"title":"Transforming Psoriasis Care: Probiotics and Prebiotics as Novel Therapeutic Approaches.","journal":"International journal of molecular sciences","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37446403/"},{"title":"Bacillus subtilis HU58 and Bacillus coagulans SC208 Probiotics Reduced the Effects of Antibiotic-Induced Gut Microbiome Dysbiosis in An M-SHIME(®) Model.","journal":"Microorganisms","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32664604/"}],
   },
   {
     id: 108,
@@ -1943,7 +1943,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"R0179 alleviates IBS symptoms: Systematic review","journal":"Probiotics and Antimicrobial Proteins","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/39631408/"},{"title":"Bacillus subtilis R0179 gut health modulation","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/39457699/"}],
+    studies: [{"title":"Immunomodulatory mechanism of Bacillus subtilis R0179 in RAW 264.7 cells against Candida albicans challenge.","journal":"Microbial pathogenesis","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34044051/"},{"title":"Inactivated Bacillus subtilis R0179 Inhibits Porphyromonas Gingivalis-Induced Gingival Inflammation Via TLR2/NF-κB Signaling in a Murine Model of Periodontitis.","journal":"Inflammation","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40779055/"}],
   },
   {
     id: 109,
@@ -1961,7 +1961,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "2×10⁹ CFU/den",
     safety: "Bezpečný pro dospělé. Studován pro respirační imunitu.",
-    studies: [{"title":"CU1 reduces respiratory infections in elderly: RCT","journal":"Clinical Nutrition","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/39330504/"},{"title":"Immunomodulation by Bacillus subtilis CU1","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/39151920/"}],
+    studies: [{"title":"Levan produced by probiotic Bacillus subtilis CU1 inhibits human norovirus GII.4 replication in zebrafish via high-avidity binding.","journal":"Food microbiology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/41344762/"},{"title":"Safety assessment of Bacillus subtilis CU1 for use as a probiotic in humans.","journal":"Regulatory toxicology and pharmacology : RTP","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/27825987/"}],
   },
   {
     id: 110,
@@ -1979,7 +1979,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "2×10⁹ CFU/den",
     safety: "Bezpečný pro děti i dospělé. Dlouhodobě používaný kmen.",
-    studies: [{"title":"B. clausii O/C reduces acute diarrhea in children: Meta-analysis","journal":"European Journal of Pediatrics","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34200435/"},{"title":"Probiotic Bacillus clausii O/C mechanisms of action","journal":"Beneficial Microbes","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33161737/"}],
+    studies: [{"title":"Effectiveness of Bacillus clausii (O/C, N/R, SIN, T) in the Prevention of Antibiotic-Associated Diarrhea and Gastrointestinal Symptoms: A Systematic Review.","journal":"Antibiotics (Basel, Switzerland)","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40426506/"},{"title":"Recommendations for the adjuvant use of the poly-antibiotic-resistant probiotic Bacillus clausii (O/C, SIN, N/R, T) in acute, chronic, and antibiotic-associated diarrhea in children: consensus from Asian experts.","journal":"Tropical diseases, travel medicine and vaccines","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33110611/"}],
   },
   {
     id: 111,
@@ -1997,7 +1997,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "2×10⁹ CFU/den",
     safety: "Bezpečný pro dospělé a děti.",
-    studies: [{"title":"B. clausii SIN reduces respiratory infections","journal":"Minerva Pediatrica","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33671071/"},{"title":"Bacillus clausii SIN immunomodulatory properties","journal":"Nutrients","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33462163/"}],
+    studies: [{"title":"Effectiveness of Bacillus clausii (O/C, N/R, SIN, T) in the Prevention of Antibiotic-Associated Diarrhea and Gastrointestinal Symptoms: A Systematic Review.","journal":"Antibiotics (Basel, Switzerland)","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40426506/"},{"title":"Recommendations for the adjuvant use of the poly-antibiotic-resistant probiotic Bacillus clausii (O/C, SIN, N/R, T) in acute, chronic, and antibiotic-associated diarrhea in children: consensus from Asian experts.","journal":"Tropical diseases, travel medicine and vaccines","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33110611/"}],
   },
   {
     id: 112,
@@ -2015,7 +2015,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "2×10⁹ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"B. clausii N/R clinical efficacy in GI disorders","journal":"Journal of Clinical Gastroenterology","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34408741/"},{"title":"Safety of Bacillus clausii N/R probiotic strain","journal":"Microorganisms","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31397213/"}],
+    studies: [{"title":"Effectiveness of Bacillus clausii (O/C, N/R, SIN, T) in the Prevention of Antibiotic-Associated Diarrhea and Gastrointestinal Symptoms: A Systematic Review.","journal":"Antibiotics (Basel, Switzerland)","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40426506/"},{"title":"Recommendations for the adjuvant use of the poly-antibiotic-resistant probiotic Bacillus clausii (O/C, SIN, N/R, T) in acute, chronic, and antibiotic-associated diarrhea in children: consensus from Asian experts.","journal":"Tropical diseases, travel medicine and vaccines","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33110611/"}],
   },
   {
     id: 113,
@@ -2033,7 +2033,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "2×10⁹ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"B. clausii T probiotic effects in children","journal":"Pediatric Research","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/34690999/"},{"title":"Characterization of Bacillus clausii T","journal":"Probiotics and Antimicrobial Proteins","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31354194/"}],
+    studies: [{"title":"Bacillus clausii for Gastrointestinal Disorders: A Narrative Literature Review.","journal":"Advances in therapy","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36018495/"},{"title":"Effectiveness of Bacillus clausii (O/C, N/R, SIN, T) in the Prevention of Antibiotic-Associated Diarrhea and Gastrointestinal Symptoms: A Systematic Review.","journal":"Antibiotics (Basel, Switzerland)","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40426506/"}],
   },
   {
     id: 114,
@@ -2051,7 +2051,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"HU36 metabolic effects in obesity model","journal":"Nutrients","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/34600678/"},{"title":"Bacillus coagulans HU36 anti-inflammatory activity","journal":"Beneficial Microbes","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31392549/"}],
+    studies: [{"title":"Transforming Psoriasis Care: Probiotics and Prebiotics as Novel Therapeutic Approaches.","journal":"International journal of molecular sciences","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37446403/"},{"title":"Treatment with a spore-based probiotic containing five strains of Bacillus induced changes in the metabolic activity and community composition of the gut microbiota in a SHIME® model of the human gastrointestinal system.","journal":"Food research international (Ottawa, Ont.)","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34600678/"}],
   },
   {
     id: 115,
@@ -2069,7 +2069,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "5×10⁹ až 10¹⁰ CFU/den",
     safety: "Velmi bezpečný. Bezpečný pro děti i dospělé. Nepodávat pacientům s centrálním žilním katetrem.",
-    studies: [{"title":"S. boulardii CNCM I-745 for acute gastroenteritis in children: Updated meta-analysis","journal":"Cochrane Database of Systematic Reviews","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/37400812/"},{"title":"Saccharomyces boulardii mechanisms and clinical applications","journal":"Therapeutic Advances in Gastroenterology","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32472262/"}],
+    studies: [{"title":"Unique Properties of Yeast Probiotic Saccharomyces boulardii CNCM I-745: A Narrative Review.","journal":"Cureus","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37927652/"},{"title":"Diversity of Saccharomyces boulardii CNCM I-745 mechanisms of action against intestinal infections.","journal":"World journal of gastroenterology","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31143070/"}],
   },
   {
     id: 116,
@@ -2087,7 +2087,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé i děti. Tradičně používaný v mléčných výrobcích.",
-    studies: [{"title":"Gut barrier modulation by probiotics","journal":"Nutrients","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34613640/"},{"title":"Immune modulation by probiotics","journal":"Probiotics and Antimicrobial Proteins","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/29031239/"}],
+    studies: [{"title":"Cloning vectors for Streptococcus thermophilus derived from a native plasmid.","journal":"FEMS microbiology letters","year":2002,"url":"https://pubmed.ncbi.nlm.nih.gov/12423750/"},{"title":"Lemon Exosome-like Nanoparticles-Manipulated Probiotics Protect Mice from C. d iff Infection.","journal":"iScience","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/33083738/"}],
   },
   {
     id: 117,
@@ -2105,7 +2105,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé a děti. Používán v kojenecké výživě.",
-    studies: [{"title":"B420 reduces body fat","journal":"International Journal of Obesity","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35083265/"},{"title":"Bifidobacterium DN-173010 shortens transit time","journal":"Alimentary Pharmacology and Therapeutics","year":2015,"url":"https://pubmed.ncbi.nlm.nih.gov/26732026/"}],
+    studies: [{"title":"Probiotics and Preterm Infants: A Position Paper by the European Society for Paediatric Gastroenterology Hepatology and Nutrition Committee on Nutrition and the European Society for Paediatric Gastroenterology Hepatology and Nutrition Working Group for Probiotics and Prebiotics.","journal":"Journal of pediatric gastroenterology and nutrition","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/32332478/"},{"title":"Effects of Streptococcus thermophilus TH-4 in a rat model of doxorubicin-induced mucositis.","journal":"Scandinavian journal of gastroenterology","year":2013,"url":"https://pubmed.ncbi.nlm.nih.gov/23865592/"}],
   },
   {
     id: 118,
@@ -2123,7 +2123,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den (orální)",
     safety: "Bezpečný pro orální použití u dětí i dospělých.",
-    studies: [{"title":"K12 reduces recurrent pharyngotonsillitis in children: Meta-analysis","journal":"European Journal of Pediatrics","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42291756/"},{"title":"Streptococcus salivarius K12 mechanisms in oral health","journal":"Frontiers in Microbiology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42197375/"}],
+    studies: [{"title":"Streptococcus salivarius K12 Alleviates Oral Mucositis in Patients Undergoing Radiotherapy for Malignant Head and Neck Tumors: A Randomized Controlled Trial.","journal":"Journal of clinical oncology : official journal of the American Society of Clinical Oncology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38215354/"},{"title":"Inhibitory effects of Streptococcus salivarius K12 on formation of cariogenic biofilm.","journal":"Journal of dental sciences","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/36643262/"}],
   },
   {
     id: 119,
@@ -2141,7 +2141,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den (orální)",
     safety: "Bezpečný pro orální použití u dětí i dospělých.",
-    studies: [{"title":"M18 reduces dental caries in children: RCT","journal":"Journal of Dental Research","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/41853273/"},{"title":"Streptococcus salivarius M18 probiotic mechanisms","journal":"Caries Research","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/41820920/"}],
+    studies: [{"title":"Safety assessment of Streptococcus salivarius M18 a probiotic for oral health.","journal":"Beneficial microbes","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35098909/"},{"title":"Oral Probiotics, Streptococcus salivarius K12 and M18, Suppress the Release of Volatile Sulfur Compounds and a Virulent Protease from Oral Bacteria: An In-Vitro Study.","journal":"Oral health & preventive dentistry","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37724895/"}],
   },
   {
     id: 120,
@@ -2159,7 +2159,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁸ až 10⁹ CFU/den",
     safety: "Bezpečný pro krátkodobé užívání. Nepodávat imunokompromitovaným pacientům.",
-    studies: [{"title":"SF68 reduces acute diarrhea duration: Systematic review","journal":"Journal of Pediatric Gastroenterology and Nutrition","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/38688481/"},{"title":"Probiotic Enterococcus faecium SF68 clinical evidence","journal":"Beneficial Microbes","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/37099449/"}],
+    studies: [{"title":"Enterococcus faecium SF68 as a model for efficacy and safety evaluation of pharmaceutical probiotics.","journal":"Beneficial microbes","year":2018,"url":"https://pubmed.ncbi.nlm.nih.gov/29633645/"},{"title":"An update on the taxonomy and functional properties of the probiotic Enterococcus faecium SF68.","journal":"Beneficial microbes","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38688481/"}],
   },
   {
     id: 121,
@@ -2177,7 +2177,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Dobře zdokumentovaná bezpečnost. Nepodávat při akutní pankreatitidě.",
-    studies: [{"title":"Nissle 1917 for ulcerative colitis and IBS: Updated meta-analysis","journal":"Gut","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42319667/"},{"title":"E. coli Nissle 1917 mechanisms and clinical applications","journal":"Nature Reviews Gastroenterology and Hepatology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42297691/"}],
+    studies: [{"title":"Emerging strategies for engineering Escherichia coli Nissle 1917-based therapeutics.","journal":"Trends in pharmacological sciences","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/35232591/"},{"title":"Engineering Escherichia coli Nissle 1917 as a microbial chassis for therapeutic and industrial applications.","journal":"Biotechnology advances","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37343690/"}],
   },
   {
     id: 122,
@@ -2195,7 +2195,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé a děti. Produkuje butyrát.",
-    studies: [{"title":"MIYAIRI 588 for H. pylori eradication adjuvant therapy","journal":"Helicobacter","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42159170/"},{"title":"Clostridium butyricum MIYAIRI 588 clinical efficacy","journal":"Nutrients","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41993168/"}],
+    studies: [{"title":"The biotherapeutic Clostridium butyricum MIYAIRI 588 strain potentiates enterotropism of Rorγt(+)Treg and PD-1 blockade efficacy.","journal":"Gut microbes","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/38385162/"},{"title":"Supplemental Clostridium butyricum MIYAIRI 588 Affects Intestinal Bacterial Composition of Finishing Pigs.","journal":"Microbes and environments","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36155363/"}],
   },
   {
     id: 123,
@@ -2213,7 +2213,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Produkce butyrátu podporuje zdraví kolonocytů.",
-    studies: [{"title":"TO-A improves bowel habits in constipated patients","journal":"Journal of Gastroenterology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/41971771/"},{"title":"Clostridium butyricum TO-A butyrate production","journal":"Anaerobe","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41425719/"}],
+    studies: [{"title":"Clostridium butyricum: from beneficial to a new emerging pathogen.","journal":"Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases","year":2016,"url":"https://pubmed.ncbi.nlm.nih.gov/26493849/"},{"title":"Cross-feeding-based rational design of a probiotic combination of Bacterides xylanisolvens and Clostridium butyricum therapy for metabolic diseases.","journal":"Gut microbes","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40190016/"}],
   },
   {
     id: 124,
@@ -2231,7 +2231,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný pro dospělé. Tradičně používán v mléčných fermentacích.",
-    studies: [{"title":"Ll-23 antimicrobial activity and probiotic potential","journal":"Journal of Applied Microbiology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42249918/"},{"title":"Lactococcus lactis Ll-23 immune modulation","journal":"Nutrients","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42243106/"}],
+    studies: [{"title":"Enhancing Bioaccessibility of Plant Protein Using Probiotics: An In Vitro Study.","journal":"Nutrients","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37764689/"},{"title":"Gut microbiota is associated with adiposity markers and probiotics may impact specific genera.","journal":"European journal of nutrition","year":2020,"url":"https://pubmed.ncbi.nlm.nih.gov/31250099/"}],
   },
   {
     id: 125,
@@ -2249,7 +2249,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečný profil v klinických studiích. Opatrnost u pacientů s těžkým oslabením střevní bariéry.",
-    studies: [{"title":"W58 improves metabolic parameters in overweight subjects","journal":"Nature Medicine","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42236854/"},{"title":"Akkermansia muciniphila W58 metabolic benefits","journal":"Gut Microbes","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42234391/"}],
+    studies: [{"title":"Akkermansia muciniphila alleviates diabetic cognitive impairment by inhibiting NLRP3 inflammasome activation and ameliorating hippocampal synaptic defects.","journal":"Food & function","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42300325/"},{"title":"Modulating the Gut-Liver Axis: Anti-Inflammatory Mechanisms of Probiotics and Prebiotics in MASLD.","journal":"Probiotics and antimicrobial proteins","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42277386/"}],
   },
   {
     id: 126,
@@ -2267,7 +2267,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Přirozeně se vyskytující v fermentovaných potravinách.",
-    studies: [{"title":"Weissella cibaria oral probiotic effects","journal":"Journal of Applied Microbiology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42315482/"},{"title":"Probiotic characterization of Weissella cibaria","journal":"Beneficial Microbes","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42256051/"}],
+    studies: [{"title":"Differentiation between Weissella cibaria and Weissella confusa Using Machine-Learning-Combined MALDI-TOF MS.","journal":"International journal of molecular sciences","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37446188/"},{"title":"Weissella cibaria suppresses colitis-associated colorectal cancer by modulating the gut microbiota-bile acid-FXR axis.","journal":"mSystems","year":2025,"url":"https://pubmed.ncbi.nlm.nih.gov/40607831/"}],
   },
   {
     id: 127,
@@ -2285,7 +2285,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Přirozeně se vyskytující v fermentované zelenině.",
-    studies: [{"title":"Leuconostoc mesenteroides probiotic properties","journal":"Food Microbiology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42142242/"},{"title":"Health benefits of Leuconostoc mesenteroides","journal":"Frontiers in Microbiology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42058059/"}],
+    studies: [{"title":"Leuconostoc mesenteroides WHH1141 ameliorates ovalbumin-induced food allergy in mice.","journal":"Journal of food science","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37680119/"},{"title":"Leuconostoc mesenteroides utilizes glucose fermentation to produce electricity and ameliorates high-fat diet-induced abdominal fat mass.","journal":"Archives of microbiology","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36241916/"}],
   },
   {
     id: 128,
@@ -2303,7 +2303,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Přirozeně se vyskytující v kefírových zrnech.",
-    studies: [{"title":"Lactobacillus kefiranofaciens probiotic characterization","journal":"Frontiers in Microbiology","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42149063/"},{"title":"Kefir-derived probiotics and gut health","journal":"Nutrients","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42073210/"}],
+    studies: [{"title":"Lactobacillus kefiranofaciens: From Isolation and Taxonomy to Probiotic Properties and Applications.","journal":"Microorganisms","year":2021,"url":"https://pubmed.ncbi.nlm.nih.gov/34683479/"},{"title":"Comparative Genomics Analysis of Habitat Adaptation by Lactobacillus kefiranofaciens.","journal":"Foods (Basel, Switzerland)","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37107402/"}],
   },
   {
     id: 129,
@@ -2321,7 +2321,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil. Izolován ze střevní sliznice.",
-    studies: [{"title":"Lactobacillus mucosae intestinal health benefits","journal":"Beneficial Microbes","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42216640/"},{"title":"Probiotic characterization of Lactobacillus mucosae","journal":"Microorganisms","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41321534/"}],
+    studies: [{"title":"Limosilactobacillus mucosae and Lactobacillus amylovorus Protect Against Experimental Colitis via Upregulation of Colonic 5-Hydroxytryptamine Receptor 4 and Transforming Growth Factor-β2.","journal":"The Journal of nutrition","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/37356501/"},{"title":"Lactobacillus mucosae DPC 6426 as a bile-modifying and immunomodulatory microbe.","journal":"BMC microbiology","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/30736731/"}],
   },
   {
     id: 130,
@@ -2339,7 +2339,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Probiotic Bifidobacterium KABP-021 clinical study","journal":"Nutrients","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Bifidobacterium strains in pediatric health","journal":"Beneficial Microbes","year":2024,"url":"https://pubmed.ncbi.nlm.nih.gov/42315482/"}],
+    studies: [{"title":"Bifidobacterium lactis XLTG11 Reduces Eczema and Infections in Infants: A Randomized Trial.","journal":"QJM : monthly journal of the Association of Physicians","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42308545/"},{"title":"Modulation of Biofunctional and Structural Properties in Stevia-Sweetened Ice Cream by Lactic Fermentation.","journal":"Food science & nutrition","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42305220/"}],
   },
   {
     id: 131,
@@ -2357,7 +2357,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"SI41 probiotic effects on metabolic health","journal":"Nutrients","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41478068/"},{"title":"Bifidobacterium longum SI41 characterization","journal":"Journal of Functional Foods","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/41422017/"}],
+    studies: [{"title":"Gut dysbiosis associated with neonatal respiratory distress syndrome and biological plausibility of disease-specific probiotic intervention: a translational study.","journal":"Journal of translational medicine","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42316154/"},{"title":"Efficacy of Adjunct PRObiotics as Compared to the Standard Care in Moderate Unipolar Depression Among Geriatric Patients: A Randomized Double-Blind Placebo-Controlled Pilot Multi-Center Trial (PRODG).","journal":"Journal of the American Geriatrics Society","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42304935/"}],
   },
   {
     id: 132,
@@ -2375,7 +2375,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Standardní bezpečnostní profil.",
-    studies: [{"title":"Enterococcus faecium DSM 22959 safety and efficacy","journal":"Probiotics and Antimicrobial Proteins","year":2019,"url":"https://pubmed.ncbi.nlm.nih.gov/31006995/"},{"title":"Probiotic Enterococcus in gastrointestinal health","journal":"Nutrients","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/39192579/"}],
+    studies: [{"title":"In vitro evaluation of candidate probiotic bacteria against enterotoxigenic Escherichia coli (ETEC) isolated from post-weaning diarrhea in piglets.","journal":"Microbial pathogenesis","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42320605/"},{"title":"Plant-Based fermented foods harbor autochthonous lactic acid bacteria with broad antimicrobial activity, bacteriocin diversity, and probiotic potential.","journal":"Letters in applied microbiology","year":2026,"url":"https://pubmed.ncbi.nlm.nih.gov/42315482/"}],
   },
   {
     id: 133,
@@ -2393,7 +2393,7 @@ const strains: Strain[] = [
     mechanisms: ["Produkce kyseliny mléčné a organických kyselin","Kompetitivní inhibice adheze patogenů","Modulace imunitní odpovědi"],
     dosage: "10⁹ až 10¹⁰ CFU/den",
     safety: "Bezpečnostní profil ve výzkumu. Omezené klinické údaje.",
-    studies: [{"title":"A2-165 improves metabolic health in preclinical models","journal":"Nature Communications","year":2022,"url":"https://pubmed.ncbi.nlm.nih.gov/36164984/"},{"title":"Akkermansia muciniphila A2-165 mechanisms","journal":"Gut Microbes","year":2023,"url":"https://pubmed.ncbi.nlm.nih.gov/39653411/"}],
+    studies: [{"title":"Pili-like proteins of Akkermansia muciniphila modulate host immune responses and gut barrier function.","journal":"PloS one","year":2017,"url":"https://pubmed.ncbi.nlm.nih.gov/28249045/"}],
   },
   {
     id: 134,
